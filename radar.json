@@ -70,7 +70,7 @@
       "name": "color",
       "type": "ordinal",
       "domain": { "data": "countries", "field": "category" },
-      "range": ["#32CD32", "#f70d1a", "#0058f3"]
+      "range": ["#FF991C", "#f70d1a", "#0058f3"]
     }
   ],
   "marks": [
@@ -232,4 +232,5 @@
       ]
     }
   ]
+
 }
