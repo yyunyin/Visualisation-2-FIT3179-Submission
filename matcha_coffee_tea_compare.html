@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Matcha · Coffee · Tea — Nutrients</title>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@400;500;600;700&family=Noto+Sans+JP:wght@300;400;500&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+  <style>
+    body {
+      margin: 0;
+      background: transparent;
+      font-family: 'Noto Sans JP', sans-serif;
+      font-weight: 300;
+    }
+    .wrap {
+      max-width: 100%;
+      margin: 0;
+      padding: 0 16px;
+    }
+    h1 {
+      font-family: 'Noto Serif JP', serif;
+      margin: 0 0 8px;
+      font-size: 24px;
+      font-weight: 600;
+      color: #1e3a1a;
+    }
+    p.sub {
+      margin: 0 0 20px;
+      color: #2c3e2a;
+      font-size: 14px;
+      font-weight: 300;
+    }
+    #vis {
+      background: transparent;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Nutrients per 100 mL</h1>
+  <p class="sub">Caffeine · Polyphenols · Flavonoids · L-theanine · Vitamin C</p>
+  <div id="vis"></div>
+</div>
+
+<script>
+const spec = {
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "background": null,
+
+  "data": {
+    "url": "matcha_coffee_tea_compare.csv",
+    "format": {
+      "type": "csv",
+      "parse": {
+        "serving_ml": "number",
+        "caffeine_mg": "number",
+        "theanine_mg": "number",
+        "polyphenol_mg": "number",
+        "vitaminc_mg": "number",
+        "flavonoids_mg": "number"
+      }
+    }
+  },
+
+  "width": "container",
+  "height": 260,
+  "autosize": {"type":"fit","contains":"padding"},
+  
+  "config": {
+    "view": {"stroke": null},
+    "axis": {
+      "gridColor": "#e6efe6",
+      "labelColor": "#1e3a1a",
+      "titleColor": "#1e3a1a",
+      "labelFont": "Noto Sans JP",
+      "titleFont": "Noto Serif JP",
+      "labelFontWeight": 300,
+      "titleFontWeight": 500
+    },
+    "legend": {
+      "labelColor": "#1e3a1a",
+      "titleColor": "#1e3a1a",
+      "labelFont": "Noto Sans JP",
+      "titleFont": "Noto Serif JP",
+      "labelFontWeight": 300,
+      "titleFontWeight": 500
+    }
+  },
+
+  "transform": [
+    {
+      "fold": [
+        "caffeine_mg",
+        "polyphenol_mg",
+        "flavonoids_mg",
+        "theanine_mg",
+        "vitaminc_mg"
+      ],
+      "as": ["nutrient","amount"]
+    },
+    {
+      "calculate":
+        "datum.nutrient=='caffeine_mg' ? 'Caffeine' : " +
+        "datum.nutrient=='polyphenol_mg' ? 'Polyphenols' : " +
+        "datum.nutrient=='flavonoids_mg' ? 'Flavonoids' : " +
+        "datum.nutrient=='theanine_mg' ? 'L-theanine' : " +
+        "datum.nutrient=='vitaminc_mg' ? 'Vitamin C' : datum.nutrient",
+      "as": "label"
+    },
+    {
+      "calculate": "isValid(datum.amount) ? datum.amount : 0",
+      "as": "amount_safe"
+    },
+    {
+      "calculate":
+        "datum.label=='Caffeine' ? 1 : " +
+        "datum.label=='Polyphenols' ? 2 : " +
+        "datum.label=='Flavonoids' ? 3 : " +
+        "datum.label=='L-theanine' ? 4 : " +
+        "datum.label=='Vitamin C' ? 5 : 99",
+      "as": "nut_order"
+    }
+  ],
+
+  "layer": [
+    {
+      "mark": {"type":"bar","cornerRadiusEnd":3},
+      "encoding": {
+        "y": {
+          "field": "drink",
+          "type": "nominal",
+          "title": "Drink",
+          "sort": ["coffee","matcha","green_tea"]
+        },
+        "x": {
+          "field": "amount_safe",
+          "type": "quantitative",
+          "title": "mg per 100 mL",
+          "stack": "zero",
+          "axis": {"format":",.0f","orient":"bottom"}
+        },
+        "color": {
+          "field": "label",
+          "type": "nominal",
+          "title": "Nutrient",
+          "scale": {
+            "domain": ["Caffeine","Polyphenols","Flavonoids","L-theanine","Vitamin C"],
+            "range": ["#8B5E3C","#2F7D5C","#7A8F35","#9ED36A","#D4A80B"]
+          }
+        },
+        "order": {"field":"nut_order","type":"ordinal"},
+        "tooltip": [
+          {"field":"drink","title":"Drink"},
+          {"field":"label","title":"Nutrient"},
+          {"field":"amount_safe","title":"Amount (mg)","format":",.0f"},
+          {"field":"serving_ml","title":"Serving (mL)"}
+        ]
+      }
+    },
+    {
+      "transform": [
+        {"aggregate":[{"op":"sum","field":"amount_safe","as":"total"}], "groupby":["drink"]},
+        {"calculate": "datum.total * 1.01", "as":"xpos"}
+      ],
+      "mark": {"type":"text","dx":4,"fontWeight":"bold","color":"#1e3a1a"},
+      "encoding": {
+        "y": {"field":"drink","type":"nominal","sort":["coffee","matcha","green_tea"]},
+        "x": {"field":"xpos","type":"quantitative"},
+        "text": {"field":"total","format":",.0f"}
+      }
+    }
+  ]
+};
+
+vegaEmbed("#vis", spec, {actions:false}).catch(err => {
+  console.error(err);
+});
+</script>
+</body>
+</html>

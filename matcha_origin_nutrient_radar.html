@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Radar</title>
+  <script src="https://cdn.jsdelivr.net/npm/vega@6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-tooltip@0.33.0"></script>
+  <style>
+    html, body { margin:0; padding:0; background:transparent; }
+    /* The wrapper the Vega view is mounted into */
+    #view { width:100%; /* height set by JS via view.height(...) */ }
+    /* Make the canvas block-level so it doesn’t add inline whitespace */
+    canvas { display:block; }
+  </style>
+</head>
+<body>
+  <div id="view"></div>
+
+  <script>
+    async function load() {
+      const res = await fetch('radar.json');
+      const spec = await res.json();
+
+      // Ensure the spec won’t clip labels:
+      spec.autosize = spec.autosize || { type: 'fit', contains: 'padding' };
+      if (typeof spec.autosize === 'string') {
+        spec.autosize = { type: spec.autosize, contains: 'padding' };
+      } else {
+        spec.autosize.type = spec.autosize.type || 'fit';
+        spec.autosize.contains = 'padding';
+      }
+      spec.padding = spec.padding || { top: 10, right: 88, bottom: 30, left: 40 };
+      spec.config = spec.config || {};
+      spec.config.view = Object.assign({ stroke: null }, spec.config.view);
+
+      const container = document.getElementById('view');
+
+      // Create the view once; we’ll resize it on window resize.
+      const view = new vega.View(vega.parse(spec), {
+        renderer: 'canvas',
+        container: container,
+        hover: true,
+        tooltip: new vegaTooltip.Handler().call
+      });
+
+      function resize() {
+        // Measure available width; subtract a tiny safety gutter
+        const w = Math.max(320, Math.floor(container.clientWidth));
+        // Choose a height that fits your layout; bump if labels feel tight
+        const h = Math.round(w * 0.33); // e.g., 1200px wide -> 400px tall
+        view.width(w).height(h).run();
+      }
+
+      // Initial render + bind resize
+      resize();
+      window.addEventListener('resize', () => {
+        // Use rAF to avoid thrashing during continuous resize
+        window.requestAnimationFrame(resize);
+      });
+    }
+
+    load().catch(err => {
+      console.error(err);
+      const pre = document.createElement('pre');
+      pre.textContent = String(err);
+      document.body.appendChild(pre);
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,123 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>Matcha — Interest Over Time (Google Trends)</title>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+  <style>
+    html, body { margin:0; background:transparent; color:#1e3a1a; font-family:system-ui, Segoe UI, Roboto, Arial }
+    #vis { width:100vw; max-width:100%; margin:0; padding:0 }
+    body { overflow:hidden }
+  </style>
+</head>
+<body>
+<div id="vis"></div>
+<script>
+const spec = {
+  $schema: "https://vega.github.io/schema/vega-lite/v5.json",
+  description: "Google Trends weekly interest (Worldwide)",
+  background: null,
+  autosize: {type:"fit", contains:"padding"},
+  width: "container",
+  height: 450,
+  data: { url: "InterestOverTime_Matcha_Google.csv", format: { type: "csv" } },
+  transform: [
+    {calculate: "toDate(datum['Week'])", as: "Date"},
+    {calculate: "toNumber(datum['Matcha: (Worldwide)'])", as: "Value"},
+    {filter: "isValid(datum.Date) && isValid(datum.Value)"}
+  ],
+  layer: [
+    {
+      mark: {type:"area", opacity:0.18},
+      encoding: {
+        x: {field:"Date", type:"temporal",
+            axis:{title:null, format:"%b %Y", labelAngle:-45, tickCount:12}},
+        y: {field:"Value", type:"quantitative",
+            axis:{title:"Interest (0–100)"}}
+      }
+    },
+    {
+      mark: {type:"line", strokeWidth:2},
+      encoding: {
+        x: {field:"Date", type:"temporal"},
+        y: {field:"Value", type:"quantitative"},
+        color: {value:"#2e7d32"},
+        tooltip: [
+          {field:"Date", type:"temporal", title:"Week"},
+          {field:"Value", type:"quantitative", title:"Interest", format:".0f"}
+        ]
+      }
+    },
+    {
+      data: { url: "InterestOverTime_Matcha_Google.csv", format: { type: "csv" } },
+      transform: [
+        {calculate: "toDate(datum['Week'])", as: "Date"},
+        {calculate: "toNumber(datum['Matcha: (Worldwide)'])", as: "Value"},
+        {filter: "isValid(datum.Date) && isValid(datum.Value)"},
+        {
+          filter: "(year(datum.Date) == 2023 && month(datum.Date) == 2 && date(datum.Date) <= 7) || (year(datum.Date) == 2024 && month(datum.Date) == 7 && date(datum.Date) <= 7) || (year(datum.Date) == 2024 && month(datum.Date) == 11 && date(datum.Date) <= 7)"
+        },
+        {
+          calculate: "year(datum.Date) == 2023 ? 'Retail boom' : year(datum.Date) == 2024 && month(datum.Date) == 7 ? 'Peak of Wellness Aesthetic' : 'Global shortage news'",
+          as: "label"
+        }
+      ],
+      layer: [
+        {
+          mark: {type: "point", filled: true, size: 120, stroke: "white", strokeWidth: 2.5},
+          encoding: {
+            x: {field: "Date", type: "temporal"},
+            y: {field: "Value", type: "quantitative"},
+            color: {value: "#d32f2f"}
+          }
+        },
+        {
+          mark: {
+            type: "text",
+            align: "left",
+            baseline: "middle",
+            fontSize: 12,
+            fontWeight: 600,
+            dx: 0,
+            dy: 20,
+            fill: "#1e3a1a"
+          },
+          encoding: {
+            x: {field: "Date", type: "temporal"},
+            y: {field: "Value", type: "quantitative"},
+            text: {field: "label", type: "nominal"}
+          }
+        },
+        {
+          mark: {
+            type: "rule",
+            strokeWidth: 2,
+            color: "#2e7d32"
+          },
+          encoding: {
+            x: {field: "Date", type: "temporal"},
+            y: {field: "Value", type: "quantitative"},
+            x2: {field: "Date", type: "temporal"},
+            y2: {field: "Value", type: "quantitative"},
+            opacity: {value: 0.6}
+          }
+        }
+      ]
+    }
+  ],
+  title: {
+    text:"Matcha — Interest Over Time (Worldwide)",
+    subtitle:"Google Trends weekly index"
+  },
+  config: {
+    view: { stroke: null },
+    axis: { grid: false }
+  }
+};
+
+vegaEmbed("#vis", spec, { actions:false });
+</script>
+</body>
+</html>

@@ -1,0 +1,235 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v6.json",
+  "description": "Three radar charts (small multiples) by Country with titles above and tooltips.",
+  "width": 1250,
+  "height": 440,
+  "padding": 20,
+  "autosize": { "type": "none", "contains": "padding" },
+  "signals": [
+    { "name": "radius", "value": 125 },
+    { "name": "dotSize", "value": 40 },
+    { "name": "titleGap", "value": 40 },
+    { "name": "labelOffset", "value": 14 }
+  ],
+  "data": [
+    {
+      "name": "raw",
+      "url": "matcha_origin_nutrients.csv",
+      "format": { "type": "csv", "parse": { "Value": "number" } }
+    },
+    {
+      "name": "table",
+      "source": "raw",
+      "transform": [
+        { "type": "formula", "as": "key", "expr": "datum.Nutrient" },
+        { "type": "formula", "as": "value", "expr": "datum.Value" },
+        { "type": "formula", "as": "category", "expr": "datum.Country" }
+      ]
+    },
+    {
+      "name": "keys",
+      "source": "table",
+      "transform": [ { "type": "aggregate", "groupby": ["key"] } ]
+    },
+    {
+      "name": "countries",
+      "source": "table",
+      "transform": [ { "type": "aggregate", "groupby": ["category"] } ]
+    },
+    {
+      "name": "radialMax",
+      "source": "table",
+      "transform": [ { "type": "aggregate", "fields": ["value"], "ops": ["max"], "as": ["maxv"] } ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "angular",
+      "type": "point",
+      "range": { "signal": "[-PI, PI]" },
+      "padding": 0.5,
+      "domain": { "data": "table", "field": "key" }
+    },
+    {
+      "name": "radial",
+      "type": "linear",
+      "range": { "signal": "[0, radius]" },
+      "zero": true,
+      "nice": false,
+      "domain": { "data": "table", "field": "value" },
+      "domainMin": 0
+    },
+    {
+      "name": "facetX",
+      "type": "point",
+      "domain": { "data": "countries", "field": "category" },
+      "range": [0, { "signal": "width" }],
+      "padding": 0.7
+    },
+    {
+      "name": "color",
+      "type": "ordinal",
+      "domain": { "data": "countries", "field": "category" },
+      "range": ["#32CD32", "#f70d1a", "#0058f3"]
+    }
+  ],
+  "marks": [
+    {
+      "type": "group",
+      "name": "panels",
+      "from": { "facet": { "data": "table", "name": "facet", "groupby": ["category"] } },
+      "encode": {
+        "enter": {
+          "x": { "scale": "facetX", "field": "category", "offset": { "signal": "-radius" } },
+          "y": { "value": 0 },
+          "width": { "signal": "radius * 2" },
+          "height": { "signal": "radius * 2 + titleGap" }
+        }
+      },
+      "marks": [
+        {
+          "type": "group",
+          "encode": { "enter": { "x": { "signal": "radius" }, "y": { "signal": "radius + titleGap" } } },
+          "marks": [
+            {
+              "type": "arc",
+              "encode": {
+                "enter": {
+                  "innerRadius": { "signal": "scale('radial', 0.25 * data('radialMax')[0].maxv)" },
+                  "outerRadius": { "signal": "scale('radial', 0.25 * data('radialMax')[0].maxv)" },
+                  "startAngle": { "value": 0 },
+                  "endAngle": { "value": 6.28318530718 },
+                  "stroke": { "value": "#8faa78" },
+                  "strokeWidth": { "value": 1.5 }
+                }
+              }
+            },
+            {
+              "type": "arc",
+              "encode": {
+                "enter": {
+                  "innerRadius": { "signal": "scale('radial', 0.5 * data('radialMax')[0].maxv)" },
+                  "outerRadius": { "signal": "scale('radial', 0.5 * data('radialMax')[0].maxv)" },
+                  "startAngle": { "value": 0 },
+                  "endAngle": { "value": 6.28318530718 },
+                  "stroke": { "value": "#8faa78" },
+                  "strokeWidth": { "value": 1.5 }
+                }
+              }
+            },
+            {
+              "type": "arc",
+              "encode": {
+                "enter": {
+                  "innerRadius": { "signal": "scale('radial', 0.75 * data('radialMax')[0].maxv)" },
+                  "outerRadius": { "signal": "scale('radial', 0.75 * data('radialMax')[0].maxv)" },
+                  "startAngle": { "value": 0 },
+                  "endAngle": { "value": 6.28318530718 },
+                  "stroke": { "value": "#8faa78" },
+                  "strokeWidth": { "value": 1.5 }
+                }
+              }
+            },
+            {
+              "type": "arc",
+              "encode": {
+                "enter": {
+                  "innerRadius": { "signal": "scale('radial', 1 * data('radialMax')[0].maxv)" },
+                  "outerRadius": { "signal": "scale('radial', 1 * data('radialMax')[0].maxv)" },
+                  "startAngle": { "value": 0 },
+                  "endAngle": { "value": 6.28318530718 },
+                  "stroke": { "value": "#8faa78" },
+                  "strokeWidth": { "value": 1.5 }
+                }
+              }
+            },
+            {
+              "type": "rule",
+              "from": { "data": "keys" },
+              "encode": {
+                "enter": {
+                  "x": { "value": 0 },
+                  "y": { "value": 0 },
+                  "x2": { "signal": "radius * cos(scale('angular', datum.key))" },
+                  "y2": { "signal": "radius * sin(scale('angular', datum.key))" },
+                  "stroke": { "value": "#8faa78" },
+                  "strokeWidth": { "value": 1.5 }
+                }
+              }
+            },
+            {
+              "type": "line",
+              "from": { "data": "facet" },
+              "transform": [ { "type": "collect", "sort": { "field": "key", "order": "ascending" } } ],
+              "encode": {
+                "enter": {
+                  "interpolate": { "value": "linear-closed" },
+                  "x": { "signal": "scale('radial', datum.value) * cos(scale('angular', datum.key))" },
+                  "y": { "signal": "scale('radial', datum.value) * sin(scale('angular', datum.key))" },
+                  "stroke": { "scale": "color", "field": "category" },
+                  "strokeWidth": { "value": 2.5 },
+                  "fill": { "scale": "color", "field": "category" },
+                  "fillOpacity": { "value": 0.25 }
+                }
+              }
+            },
+            {
+              "type": "symbol",
+              "from": { "data": "facet" },
+              "encode": {
+                "enter": {
+                  "x": { "signal": "scale('radial', datum.value) * cos(scale('angular', datum.key))" },
+                  "y": { "signal": "scale('radial', datum.value) * sin(scale('angular', datum.key))" },
+                  "size": { "signal": "dotSize" },
+                  "stroke": { "scale": "color", "field": "category" },
+                  "strokeWidth": { "value": 2 },
+                  "fill": { "scale": "color", "field": "category" },
+                  "fillOpacity": { "value": 0.9 },
+                  "tooltip": { "signal": "datum.category + ' — ' + datum.key + ': ' + format(datum.value,'~g')" }
+                },
+                "hover": { "size": { "value": 80 }, "fillOpacity": { "value": 1 } },
+                "update": { "cursor": { "value": "pointer" } }
+              }
+            },
+            {
+              "type": "text",
+              "from": { "data": "keys" },
+              "encode": {
+                "enter": {
+                  "x": { "signal": "(radius + labelOffset) * cos(scale('angular', datum.key))" },
+                  "y": { "signal": "(radius + labelOffset) * sin(scale('angular', datum.key))" },
+                  "align": [
+                    { "test": "abs(scale('angular', datum.key)) > PI/2", "value": "right" },
+                    { "value": "left" }
+                  ],
+                  "baseline": [
+                    { "test": "scale('angular', datum.key) > 0", "value": "top" },
+                    { "test": "scale('angular', datum.key) == 0", "value": "middle" },
+                    { "value": "bottom" }
+                  ],
+                  "fontSize": { "value": 11 },
+                  "text": { "field": "key" },
+                  "fill": { "value": "#2c3e2a" }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "encode": {
+            "enter": {
+              "x": { "signal": "radius" },
+              "y": { "value": 14 },
+              "align": { "value": "center" },
+              "fontSize": { "value": 18 },
+              "fontWeight": { "value": 700 },
+              "fill": { "value": "#2c3e2a" },
+              "text": { "signal": "parent.category" }
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

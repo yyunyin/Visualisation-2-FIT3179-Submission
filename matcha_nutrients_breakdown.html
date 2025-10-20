@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Matcha Nutrient Composition by Country</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+  <style>
+    body { font-family: system-ui, Arial, sans-serif; margin: 24px; background: #fff; }
+    h1 { text-align: center; margin-bottom: 6px; }
+    .subtitle { text-align: center; color: #666; margin-bottom: 24px; }
+    .chart-row {
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      gap: 100px; /* extra space between chart and text */
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+    #vis { flex: 1; max-width: 800px; }
+    .annotations {
+      width: 260px;
+      font-size: 14px;
+      line-height: 1.5;
+      margin-top: 40px;
+    }
+    .annotations h3 {
+      margin-top: 0;
+      margin-bottom: 8px;
+      font-size: 16px;
+      color: #333;
+    }
+    .annotations p { margin: 6px 0; }
+    .jp { color: #2b9348; font-weight: 600; }
+    .cn { color: #a97100; font-weight: 600; }
+    .kr { color: #5c7cfa; font-weight: 600; }
+  </style>
+</head>
+
+<body>
+  <h1>Matcha Nutrient Composition by Country</h1>
+   <p class="subtitle">
+      Comparison of Japan, China, and South Korea matcha powder composition based on <a href="https://www.mdpi.com/2304-8158/13/8/1270?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer"> MDPI Foods (2024)</a>.
+    </p>
+
+  <div class="chart-row">
+    <div id="vis"></div>
+  </div>
+
+  <script>
+const spec = {
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": { "url": "matcha_origin_nutrients.csv" },
+  "width": 600,
+  "height": 260,
+  "config": { "view": { "stroke": null } },
+  "params": [{
+    "name": "nutrient_select",
+    "bind": {
+      "input": "select",
+      "options": ["All","Polyphenols","Flavonoids","Vitamin C","Caffeine","L-Theanine"],
+      "labels": ["All nutrients","Polyphenols","Flavonoids","Vitamin C","Caffeine","L-Theanine"],
+      "name": "Filter Nutrients  "
+    },
+    "value": "All"
+  }],
+  "transform": [
+    {
+      "calculate":
+        "datum.Nutrient=='Polyphenols' ? 1 : datum.Nutrient=='Flavonoids' ? 2 : datum.Nutrient=='Vitamin C' ? 3 : datum.Nutrient=='Caffeine' ? 4 : 5",
+      "as": "nutrient_order"
+    }
+  ],
+  "encoding": {
+    "y": { "field": "Country", "type": "nominal", "axis": {"labelAngle": 0} }
+  },
+  "layer": [
+    {
+      /* Bars */
+      "mark": { "type": "bar", "cornerRadiusEnd": 2 },
+      "encoding": {
+        "x": {
+          "aggregate": "sum",
+          "field": "Value",
+          "stack": "zero",
+          "title": "FOB value (US$)",
+          "scale": { "domain": [0,150] }
+        },
+        "color": {
+          "field": "Nutrient", "type": "nominal",
+          "scale": {
+            "domain": ["Polyphenols","Flavonoids","Vitamin C","Caffeine","L-Theanine"],
+            "range": ["#2f6b2f","#7fb069","#b88a4a","#6b4c1a","#a7c27f"]
+          },
+          "legend": { "title": "Nutrient Type", "orient": "bottom" }
+        },
+        "tooltip": [
+          {"field": "Country", "type": "nominal"},
+          {"field": "Nutrient", "type": "nominal"},
+          {"field": "Value (mg/100g)", "type": "quantitative", "title": "Value (mg/100g)"}
+        ],
+        "opacity": {
+          "condition": { "test": "nutrient_select=='All' || datum.Nutrient==nutrient_select", "value": 1 },
+          "value": 0.25
+        },
+        "order": { "field": "nutrient_order", "type": "quantitative" }
+      }
+    },
+    {
+      /* Text annotation — computed position */
+      "transform": [
+        { "aggregate": [{ "op": "sum", "field": "Value", "as": "total" }], "groupby": ["Country"] },
+        { "filter": "datum.Country == 'Japan'" },
+        { "calculate": "datum.total + 2", "as": "x_pos" }
+      ],
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "fontSize": 12,
+        "fontWeight": 600,
+        "color": "black"
+      },
+      "encoding": {
+        "y": { "field": "Country", "type": "nominal" },
+        "x": { "field": "x_pos", "type": "quantitative" },
+        "text": { "value": "<- Highest total nutrients" }
+      }
+    }
+  ]
+};
+
+vegaEmbed('#vis', spec);
+</script>
+</body>
+</html>

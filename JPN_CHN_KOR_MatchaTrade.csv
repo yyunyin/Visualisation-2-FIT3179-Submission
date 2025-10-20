@@ -1,0 +1,1154 @@
+refYear,period,reporterISO,reporterDesc,partnerISO,partnerDesc,cmdCode,cmdDesc,netWgt,isNetWgtEstimated,fobvalue,primaryValue,isReported,isAggregate
+2020,2020,CHN,China,W00,World,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",122808133.2,TRUE,734019340,734019340,FALSE,TRUE
+2020,2020,CHN,China,AFG,Afghanistan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",555276,FALSE,1817139,1817139,TRUE,FALSE
+2020,2020,CHN,China,DZA,Algeria,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",10680476,FALSE,35870924,35870924,TRUE,FALSE
+2020,2020,CHN,China,AGO,Angola,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",32210,FALSE,142956,142956,TRUE,FALSE
+2020,2020,CHN,China,ARG,Argentina,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",46866,FALSE,1134884,1134884,TRUE,FALSE
+2020,2020,CHN,China,AUS,Australia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",78666,FALSE,1216453,1216453,TRUE,FALSE
+2020,2020,CHN,China,BGD,Bangladesh,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",115,FALSE,3220,3220,TRUE,FALSE
+2020,2020,CHN,China,BEL,Belgium,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2100715,FALSE,9555216,9555216,TRUE,FALSE
+2020,2020,CHN,China,BRA,Brazil,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6625.167,TRUE,120939,120939,TRUE,FALSE
+2020,2020,CHN,China,MMR,Myanmar,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",688073,FALSE,30934877,30934877,TRUE,FALSE
+2020,2020,CHN,China,KHM,Cambodia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",45359,FALSE,2026490,2026490,TRUE,FALSE
+2020,2020,CHN,China,CMR,Cameroon,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",245970,FALSE,482916,482916,TRUE,FALSE
+2020,2020,CHN,China,CAN,Canada,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",351588,FALSE,6364880,6364880,TRUE,FALSE
+2020,2020,CHN,China,TCD,Chad,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",66259,FALSE,316967,316967,TRUE,FALSE
+2020,2020,CHN,China,CHL,Chile,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",69745,FALSE,623771,623771,TRUE,FALSE
+2020,2020,CHN,China,COL,Colombia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",830,FALSE,8948,8948,TRUE,FALSE
+2020,2020,CHN,China,COG,Congo,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",98040,FALSE,465501,465501,TRUE,FALSE
+2020,2020,CHN,China,CRI,Costa Rica,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",5598,FALSE,46759,46759,TRUE,FALSE
+2020,2020,CHN,China,CZE,Czechia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2215,FALSE,142606,142606,TRUE,FALSE
+2020,2020,CHN,China,BEN,Benin,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2071256,FALSE,7580345,7580345,TRUE,FALSE
+2020,2020,CHN,China,DNK,Denmark,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",91,FALSE,1769,1769,TRUE,FALSE
+2020,2020,CHN,China,SLV,El Salvador,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",70,FALSE,490,490,TRUE,FALSE
+2020,2020,CHN,China,GNQ,Equatorial Guinea,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",23000,FALSE,105690,105690,TRUE,FALSE
+2020,2020,CHN,China,ETH,Ethiopia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",15,FALSE,533,533,TRUE,FALSE
+2020,2020,CHN,China,FIN,Finland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1839,FALSE,13824,13824,TRUE,FALSE
+2020,2020,CHN,China,FRA,France,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2777318,FALSE,13048264,13048264,TRUE,FALSE
+2020,2020,CHN,China,GAB,Gabon,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",183330,FALSE,852160,852160,TRUE,FALSE
+2020,2020,CHN,China,GEO,Georgia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2430,FALSE,97200,97200,TRUE,FALSE
+2020,2020,CHN,China,GMB,Gambia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",5526520,FALSE,21902913,21902913,TRUE,FALSE
+2020,2020,CHN,China,DEU,Germany,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",36001,FALSE,333353,333353,TRUE,FALSE
+2020,2020,CHN,China,GHA,Ghana,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",18707410,FALSE,79732487,79732487,TRUE,FALSE
+2020,2020,CHN,China,GRC,Greece,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1200,FALSE,6260,6260,TRUE,FALSE
+2020,2020,CHN,China,GTM,Guatemala,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",35,FALSE,550,550,TRUE,FALSE
+2020,2020,CHN,China,GIN,Guinea,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3251330,FALSE,11791542,11791542,TRUE,FALSE
+2020,2020,CHN,China,HKG,"China, Hong Kong SAR",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2250577,FALSE,87116098,87116098,TRUE,FALSE
+2020,2020,CHN,China,HUN,Hungary,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",16632,FALSE,128435,128435,TRUE,FALSE
+2020,2020,CHN,China,IDN,Indonesia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",62138,FALSE,1983081,1983081,TRUE,FALSE
+2020,2020,CHN,China,IRN,Iran,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",191094,FALSE,577860,577860,TRUE,FALSE
+2020,2020,CHN,China,IRQ,Iraq,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",255,FALSE,9305,9305,TRUE,FALSE
+2020,2020,CHN,China,IRL,Ireland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3501,FALSE,89128,89128,TRUE,FALSE
+2020,2020,CHN,China,ISR,Israel,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",75790,FALSE,178609,178609,TRUE,FALSE
+2020,2020,CHN,China,ITA,Italy,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",785655,FALSE,3392122,3392122,TRUE,FALSE
+2020,2020,CHN,China,CIV,Côte d'Ivoire,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2196910,FALSE,9412116,9412116,TRUE,FALSE
+2020,2020,CHN,China,JPN,Japan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",442156,FALSE,1527433,1527433,TRUE,FALSE
+2020,2020,CHN,China,KAZ,Kazakhstan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",100,FALSE,5100,5100,TRUE,FALSE
+2020,2020,CHN,China,JOR,Jordan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",310,FALSE,9617,9617,TRUE,FALSE
+2020,2020,CHN,China,PRK,Dem. People's Rep. of Korea,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",749,FALSE,1722,1722,TRUE,FALSE
+2020,2020,CHN,China,KOR,Rep. of Korea,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",225936,FALSE,4586630,4586630,TRUE,FALSE
+2020,2020,CHN,China,KWT,Kuwait,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2617,FALSE,22666,22666,TRUE,FALSE
+2020,2020,CHN,China,KGZ,Kyrgyzstan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",228434,FALSE,12897812,12897812,TRUE,FALSE
+2020,2020,CHN,China,LBN,Lebanon,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8815,FALSE,18764,18764,TRUE,FALSE
+2020,2020,CHN,China,LVA,Latvia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",387,FALSE,30061,30061,TRUE,FALSE
+2020,2020,CHN,China,LBR,Liberia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",145120,FALSE,214663,214663,TRUE,FALSE
+2020,2020,CHN,China,LBY,Libya,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3110788,FALSE,10945569,10945569,TRUE,FALSE
+2020,2020,CHN,China,MAC,"China, Macao SAR",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",5099,FALSE,109842,109842,TRUE,FALSE
+2020,2020,CHN,China,MYS,Malaysia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1725672,FALSE,67770089,67770089,TRUE,FALSE
+2020,2020,CHN,China,MLI,Mali,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3230274,FALSE,13838729,13838729,TRUE,FALSE
+2020,2020,CHN,China,MLT,Malta,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2016,FALSE,10685,10685,TRUE,FALSE
+2020,2020,CHN,China,MRT,Mauritania,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",13965300,FALSE,59781257,59781257,TRUE,FALSE
+2020,2020,CHN,China,MUS,Mauritius,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6305,FALSE,47300,47300,TRUE,FALSE
+2020,2020,CHN,China,MEX,Mexico,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",4277,FALSE,49332,49332,TRUE,FALSE
+2020,2020,CHN,China,S19,"Other Asia, nes",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",48,FALSE,3221,3221,TRUE,FALSE
+2020,2020,CHN,China,MNG,Mongolia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",7013,FALSE,59769,59769,TRUE,FALSE
+2020,2020,CHN,China,MNE,Montenegro,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",27,FALSE,2821,2821,TRUE,FALSE
+2020,2020,CHN,China,MAR,Morocco,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3695279,FALSE,16043014,16043014,TRUE,FALSE
+2020,2020,CHN,China,OMN,Oman,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",103,FALSE,8822,8822,TRUE,FALSE
+2020,2020,CHN,China,NLD,Netherlands,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1282016,FALSE,6274711,6274711,TRUE,FALSE
+2020,2020,CHN,China,NZL,New Zealand,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3611,FALSE,46357,46357,TRUE,FALSE
+2020,2020,CHN,China,NER,Niger,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2134954,FALSE,7961164,7961164,TRUE,FALSE
+2020,2020,CHN,China,NGA,Nigeria,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",13318,FALSE,117230,117230,TRUE,FALSE
+2020,2020,CHN,China,PAK,Pakistan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",91447,FALSE,1161511,1161511,TRUE,FALSE
+2020,2020,CHN,China,PAN,Panama,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",12299,FALSE,233746,233746,TRUE,FALSE
+2020,2020,CHN,China,PNG,Papua New Guinea,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3,FALSE,137,137,TRUE,FALSE
+2020,2020,CHN,China,PER,Peru,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",16513,FALSE,181284,181284,TRUE,FALSE
+2020,2020,CHN,China,PHL,Philippines,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",190353,FALSE,6322454,6322454,TRUE,FALSE
+2020,2020,CHN,China,POL,Poland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",40494,FALSE,396150,396150,TRUE,FALSE
+2020,2020,CHN,China,PRT,Portugal,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3964,FALSE,43569,43569,TRUE,FALSE
+2020,2020,CHN,China,GNB,Guinea-Bissau,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",10800,FALSE,59400,59400,TRUE,FALSE
+2020,2020,CHN,China,QAT,Qatar,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",12154,FALSE,84661,84661,TRUE,FALSE
+2020,2020,CHN,China,ROU,Romania,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2250,FALSE,12024,12024,TRUE,FALSE
+2020,2020,CHN,China,RUS,Russian Federation,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",106846,FALSE,2349965,2349965,TRUE,FALSE
+2020,2020,CHN,China,SAU,Saudi Arabia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",461856,FALSE,2189045,2189045,TRUE,FALSE
+2020,2020,CHN,China,SEN,Senegal,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",16259917,FALSE,65089371,65089371,TRUE,FALSE
+2020,2020,CHN,China,SRB,Serbia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6950,FALSE,21875,21875,TRUE,FALSE
+2020,2020,CHN,China,SLE,Sierra Leone,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",318500,FALSE,517530,517530,TRUE,FALSE
+2020,2020,CHN,China,IND,India,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2629,FALSE,28716,28716,TRUE,FALSE
+2020,2020,CHN,China,SGP,Singapore,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",71599,FALSE,1533076,1533076,TRUE,FALSE
+2020,2020,CHN,China,SVK,Slovakia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",58,FALSE,3424,3424,TRUE,FALSE
+2020,2020,CHN,China,VNM,Viet Nam,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",38665,FALSE,1150333,1150333,TRUE,FALSE
+2020,2020,CHN,China,ZAF,South Africa,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",92782,FALSE,1569015,1569015,TRUE,FALSE
+2020,2020,CHN,China,ZWE,Zimbabwe,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",23,FALSE,316,316,TRUE,FALSE
+2020,2020,CHN,China,ESP,Spain,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",736569,FALSE,3920600,3920600,TRUE,FALSE
+2020,2020,CHN,China,SDN,Sudan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",100355,FALSE,821903,821903,TRUE,FALSE
+2020,2020,CHN,China,SUR,Suriname,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6192,FALSE,72943,72943,TRUE,FALSE
+2020,2020,CHN,China,SWE,Sweden,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",138,FALSE,5001,5001,TRUE,FALSE
+2020,2020,CHN,China,CHE,Switzerland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",557,FALSE,37046,37046,TRUE,FALSE
+2020,2020,CHN,China,SYR,Syria,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6912,FALSE,28540,28540,TRUE,FALSE
+2020,2020,CHN,China,TJK,Tajikistan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",102749,FALSE,210369,210369,TRUE,FALSE
+2020,2020,CHN,China,THA,Thailand,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",628522,FALSE,15757727,15757727,TRUE,FALSE
+2020,2020,CHN,China,TGO,Togo,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",17630660,FALSE,76887890,76887890,TRUE,FALSE
+2020,2020,CHN,China,TTO,Trinidad and Tobago,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",160,FALSE,3200,3200,TRUE,FALSE
+2020,2020,CHN,China,ARE,United Arab Emirates,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",25362,FALSE,180728,180728,TRUE,FALSE
+2020,2020,CHN,China,TUR,Türkiye,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1,FALSE,2,2,TRUE,FALSE
+2020,2020,CHN,China,UKR,Ukraine,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",7665,FALSE,99632,99632,TRUE,FALSE
+2020,2020,CHN,China,EGY,Egypt,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",44046,FALSE,231228,231228,TRUE,FALSE
+2020,2020,CHN,China,GBR,United Kingdom,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",69672,FALSE,900323,900323,TRUE,FALSE
+2020,2020,CHN,China,USA,USA,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1420948,FALSE,17801337,17801337,TRUE,FALSE
+2020,2020,CHN,China,BFA,Burkina Faso,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",744376,FALSE,1822585,1822585,TRUE,FALSE
+2020,2020,CHN,China,UZB,Uzbekistan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",41640,FALSE,216356,216356,TRUE,FALSE
+2020,2020,CHN,China,YEM,Yemen,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",21740,FALSE,57983,57983,TRUE,FALSE
+2020,2020,CHN,China,ZMB,Zambia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",20,FALSE,2385,2385,TRUE,FALSE
+2020,2020,JPN,Japan,W00,World,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1879987,FALSE,81325006.46,81325006.46,FALSE,TRUE
+2020,2020,JPN,Japan,ARG,Argentina,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",725,FALSE,28426.243,28426.243,TRUE,FALSE
+2020,2020,JPN,Japan,AUS,Australia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",45243,FALSE,1678151.513,1678151.513,TRUE,FALSE
+2020,2020,JPN,Japan,AUT,Austria,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",11397,FALSE,1089975.791,1089975.791,TRUE,FALSE
+2020,2020,JPN,Japan,BHR,Bahrain,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",164,FALSE,14466.258,14466.258,TRUE,FALSE
+2020,2020,JPN,Japan,BEL,Belgium,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2329,FALSE,141681.196,141681.196,TRUE,FALSE
+2020,2020,JPN,Japan,BRA,Brazil,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",4302,FALSE,88456.993,88456.993,TRUE,FALSE
+2020,2020,JPN,Japan,MMR,Myanmar,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",786,FALSE,20194.633,20194.633,TRUE,FALSE
+2020,2020,JPN,Japan,KHM,Cambodia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1086,FALSE,36254.71,36254.71,TRUE,FALSE
+2020,2020,JPN,Japan,CAN,Canada,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",125464,FALSE,5276883.891,5276883.891,TRUE,FALSE
+2020,2020,JPN,Japan,LKA,Sri Lanka,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",300,FALSE,7903.471,7903.471,TRUE,FALSE
+2020,2020,JPN,Japan,CHL,Chile,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",645,FALSE,35317.169,35317.169,TRUE,FALSE
+2020,2020,JPN,Japan,CHN,China,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",9099,FALSE,329255.024,329255.024,TRUE,FALSE
+2020,2020,JPN,Japan,CYP,Cyprus,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",92,FALSE,9741.051,9741.051,TRUE,FALSE
+2020,2020,JPN,Japan,CZE,Czechia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3442,FALSE,195074.156,195074.156,TRUE,FALSE
+2020,2020,JPN,Japan,DNK,Denmark,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",823,FALSE,66556.036,66556.036,TRUE,FALSE
+2020,2020,JPN,Japan,EST,Estonia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",75,FALSE,13791.228,13791.228,TRUE,FALSE
+2020,2020,JPN,Japan,FIN,Finland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",106,FALSE,3862.669,3862.669,TRUE,FALSE
+2020,2020,JPN,Japan,FRA,France,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",33209,FALSE,1418949.553,1418949.553,TRUE,FALSE
+2020,2020,JPN,Japan,DEU,Germany,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",94399,FALSE,4781918.495,4781918.495,TRUE,FALSE
+2020,2020,JPN,Japan,GRC,Greece,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",205,FALSE,8231.61,8231.61,TRUE,FALSE
+2020,2020,JPN,Japan,HKG,"China, Hong Kong SAR",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",115296,FALSE,4446269.442,4446269.442,TRUE,FALSE
+2020,2020,JPN,Japan,HUN,Hungary,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",586,FALSE,65918.508,65918.508,TRUE,FALSE
+2020,2020,JPN,Japan,IDN,Indonesia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",30973,FALSE,576400.207,576400.207,TRUE,FALSE
+2020,2020,JPN,Japan,ISR,Israel,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1685,FALSE,60537.022,60537.022,TRUE,FALSE
+2020,2020,JPN,Japan,ITA,Italy,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2880,FALSE,144409.44,144409.44,TRUE,FALSE
+2020,2020,JPN,Japan,KOR,Rep. of Korea,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3805,FALSE,127721.21,127721.21,TRUE,FALSE
+2020,2020,JPN,Japan,KWT,Kuwait,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1419,FALSE,120014.623,120014.623,TRUE,FALSE
+2020,2020,JPN,Japan,LBN,Lebanon,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",25,FALSE,2700.118,2700.118,TRUE,FALSE
+2020,2020,JPN,Japan,LVA,Latvia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",85,FALSE,4950.216,4950.216,TRUE,FALSE
+2020,2020,JPN,Japan,LTU,Lithuania,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1196,FALSE,67681.085,67681.085,TRUE,FALSE
+2020,2020,JPN,Japan,LUX,Luxembourg,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",30,FALSE,5062.721,5062.721,TRUE,FALSE
+2020,2020,JPN,Japan,MAC,"China, Macao SAR",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",4907,FALSE,362106.46,362106.46,TRUE,FALSE
+2020,2020,JPN,Japan,MYS,Malaysia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",124852,FALSE,2511569.209,2511569.209,TRUE,FALSE
+2020,2020,JPN,Japan,MUS,Mauritius,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",412,FALSE,13988.112,13988.112,TRUE,FALSE
+2020,2020,JPN,Japan,MEX,Mexico,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",14877,FALSE,644081.292,644081.292,TRUE,FALSE
+2020,2020,JPN,Japan,S19,"Other Asia, nes",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",91218,FALSE,3286568.726,3286568.726,TRUE,FALSE
+2020,2020,JPN,Japan,MNG,Mongolia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1543,FALSE,30751.345,30751.345,TRUE,FALSE
+2020,2020,JPN,Japan,MAR,Morocco,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",40,FALSE,3572.031,3572.031,TRUE,FALSE
+2020,2020,JPN,Japan,NLD,Netherlands,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",21010,FALSE,1229510.018,1229510.018,TRUE,FALSE
+2020,2020,JPN,Japan,NZL,New Zealand,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2044,FALSE,95957.321,95957.321,TRUE,FALSE
+2020,2020,JPN,Japan,NOR,Norway,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",64,FALSE,10219.197,10219.197,TRUE,FALSE
+2020,2020,JPN,Japan,PER,Peru,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",15,FALSE,2671.992,2671.992,TRUE,FALSE
+2020,2020,JPN,Japan,PHL,Philippines,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",4497,FALSE,159710.109,159710.109,TRUE,FALSE
+2020,2020,JPN,Japan,POL,Poland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8629,FALSE,373169.444,373169.444,TRUE,FALSE
+2020,2020,JPN,Japan,QAT,Qatar,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",200,FALSE,14156.869,14156.869,TRUE,FALSE
+2020,2020,JPN,Japan,ROU,Romania,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",15,FALSE,3009.507,3009.507,TRUE,FALSE
+2020,2020,JPN,Japan,RUS,Russian Federation,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2817,FALSE,139740.486,139740.486,TRUE,FALSE
+2020,2020,JPN,Japan,SAU,Saudi Arabia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2181,FALSE,93688.472,93688.472,TRUE,FALSE
+2020,2020,JPN,Japan,SRB,Serbia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",80,FALSE,4397.067,4397.067,TRUE,FALSE
+2020,2020,JPN,Japan,IND,India,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6855,FALSE,151112.858,151112.858,TRUE,FALSE
+2020,2020,JPN,Japan,SGP,Singapore,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",143874,FALSE,3697680.455,3697680.455,TRUE,FALSE
+2020,2020,JPN,Japan,SVK,Slovakia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",633,FALSE,30779.471,30779.471,TRUE,FALSE
+2020,2020,JPN,Japan,VNM,Viet Nam,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",19650,FALSE,443231.883,443231.883,TRUE,FALSE
+2020,2020,JPN,Japan,SVN,Slovenia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",486,FALSE,10069.19,10069.19,TRUE,FALSE
+2020,2020,JPN,Japan,ZAF,South Africa,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",140,FALSE,10087.941,10087.941,TRUE,FALSE
+2020,2020,JPN,Japan,ESP,Spain,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8788,FALSE,229116.27,229116.27,TRUE,FALSE
+2020,2020,JPN,Japan,SWE,Sweden,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1500,FALSE,118130.166,118130.166,TRUE,FALSE
+2020,2020,JPN,Japan,CHE,Switzerland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",4662,FALSE,278524.68,278524.68,TRUE,FALSE
+2020,2020,JPN,Japan,THA,Thailand,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",68003,FALSE,1943831.882,1943831.882,TRUE,FALSE
+2020,2020,JPN,Japan,ARE,United Arab Emirates,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",4228,FALSE,217237.625,217237.625,TRUE,FALSE
+2020,2020,JPN,Japan,UKR,Ukraine,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",411,FALSE,35110.91,35110.91,TRUE,FALSE
+2020,2020,JPN,Japan,GBR,United Kingdom,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",28686,FALSE,1722731.588,1722731.588,TRUE,FALSE
+2020,2020,JPN,Japan,USA,USA,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",820799,FALSE,42591737.6,42591737.6,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,W00,World,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",60323.843,FALSE,1367246,1367246,FALSE,TRUE
+2020,2020,KOR,Rep. of Korea,AZE,Azerbaijan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",5,FALSE,150,150,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,AUS,Australia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1276.1,FALSE,43751,43751,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,AUT,Austria,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",232.4,FALSE,1466,1466,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,BEL,Belgium,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",0.4,FALSE,10,10,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,BTN,Bhutan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1,FALSE,30,30,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,MMR,Myanmar,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",310,FALSE,2970,2970,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,KHM,Cambodia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",68.81,FALSE,1134,1134,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,CAN,Canada,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3183.04,FALSE,104151,104151,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,CHL,Chile,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",245,FALSE,492,492,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,CHN,China,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1675.533,FALSE,24610,24610,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,CZE,Czechia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",128.4,FALSE,14010,14010,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,DOM,Dominican Rep.,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",30,FALSE,178,178,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,FIN,Finland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",0.4,FALSE,30,30,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,FRA,France,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",691,FALSE,35173,35173,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,DEU,Germany,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2258.36,FALSE,174872,174872,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,HKG,"China, Hong Kong SAR",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",956.6,FALSE,48662,48662,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,IDN,Indonesia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2730,FALSE,14198,14198,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,IRQ,Iraq,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",135,FALSE,2843,2843,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,ITA,Italy,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",0.3,FALSE,14,14,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,KAZ,Kazakhstan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",113.4,FALSE,1159,1159,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,KWT,Kuwait,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",18.84,FALSE,2371,2371,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,MYS,Malaysia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1187.642,FALSE,34128,34128,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,MEX,Mexico,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",15,FALSE,1,1,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,S19,"Other Asia, nes",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",19108,FALSE,15106,15106,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,MNG,Mongolia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",990.6,FALSE,43249,43249,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,NLD,Netherlands,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",7446.52,FALSE,55692,55692,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,NZL,New Zealand,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",12.53,FALSE,898,898,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,PHL,Philippines,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1585.1,FALSE,23995,23995,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,POL,Poland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",0.4,FALSE,30,30,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,QAT,Qatar,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",134.16,FALSE,3885,3885,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,RUS,Russian Federation,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",180,FALSE,5450,5450,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,SGP,Singapore,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",4010.24,FALSE,229472,229472,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,SVK,Slovakia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",93,FALSE,2100,2100,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,VNM,Viet Nam,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",260,FALSE,5767,5767,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,SWE,Sweden,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",10,FALSE,133,133,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,CHE,Switzerland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",0.3,FALSE,34,34,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,THA,Thailand,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",150,FALSE,747,747,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,ARE,United Arab Emirates,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3.6,FALSE,221,221,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,GBR,United Kingdom,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",326.9,FALSE,11167,11167,TRUE,FALSE
+2020,2020,KOR,Rep. of Korea,USA,USA,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",10750.268,FALSE,462897,462897,TRUE,FALSE
+2021,2021,CHN,China,W00,World,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",123852056.2,TRUE,763031192,763031192,FALSE,TRUE
+2021,2021,CHN,China,AFG,Afghanistan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",468940,FALSE,1643061,1643061,TRUE,FALSE
+2021,2021,CHN,China,DZA,Algeria,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",9079482,FALSE,32947534,32947534,TRUE,FALSE
+2021,2021,CHN,China,AGO,Angola,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",98860,FALSE,472083,472083,TRUE,FALSE
+2021,2021,CHN,China,ARG,Argentina,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",49155,FALSE,1226725,1226725,TRUE,FALSE
+2021,2021,CHN,China,AUS,Australia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",84397,FALSE,1162985,1162985,TRUE,FALSE
+2021,2021,CHN,China,AUT,Austria,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",5780,FALSE,32967,32967,TRUE,FALSE
+2021,2021,CHN,China,BHS,Bahamas,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",210,FALSE,5370,5370,TRUE,FALSE
+2021,2021,CHN,China,BGD,Bangladesh,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",78,FALSE,2730,2730,TRUE,FALSE
+2021,2021,CHN,China,BEL,Belgium,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2358890,FALSE,11457000,11457000,TRUE,FALSE
+2021,2021,CHN,China,BRA,Brazil,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6188,FALSE,71796,71796,TRUE,FALSE
+2021,2021,CHN,China,MMR,Myanmar,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",45097,FALSE,1891102,1891102,TRUE,FALSE
+2021,2021,CHN,China,BLR,Belarus,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1400,FALSE,12409,12409,TRUE,FALSE
+2021,2021,CHN,China,KHM,Cambodia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",5249,FALSE,151046,151046,TRUE,FALSE
+2021,2021,CHN,China,CMR,Cameroon,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",127500,FALSE,371725,371725,TRUE,FALSE
+2021,2021,CHN,China,CAN,Canada,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",260151,FALSE,5186007,5186007,TRUE,FALSE
+2021,2021,CHN,China,LKA,Sri Lanka,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",12.325,TRUE,83,83,TRUE,FALSE
+2021,2021,CHN,China,TCD,Chad,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",18500,FALSE,101750,101750,TRUE,FALSE
+2021,2021,CHN,China,CHL,Chile,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",78888,FALSE,850745,850745,TRUE,FALSE
+2021,2021,CHN,China,COL,Colombia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2457,FALSE,21574,21574,TRUE,FALSE
+2021,2021,CHN,China,COG,Congo,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",169000,FALSE,836639,836639,TRUE,FALSE
+2021,2021,CHN,China,CRI,Costa Rica,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3740,FALSE,41607,41607,TRUE,FALSE
+2021,2021,CHN,China,CZE,Czechia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3179,FALSE,234533,234533,TRUE,FALSE
+2021,2021,CHN,China,BEN,Benin,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1934786,FALSE,7223597,7223597,TRUE,FALSE
+2021,2021,CHN,China,DNK,Denmark,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",174,FALSE,2470,2470,TRUE,FALSE
+2021,2021,CHN,China,ECU,Ecuador,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",884,FALSE,8867,8867,TRUE,FALSE
+2021,2021,CHN,China,GNQ,Equatorial Guinea,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",10200,FALSE,53560,53560,TRUE,FALSE
+2021,2021,CHN,China,ETH,Ethiopia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",5,FALSE,270,270,TRUE,FALSE
+2021,2021,CHN,China,EST,Estonia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",20,FALSE,549,549,TRUE,FALSE
+2021,2021,CHN,China,FIN,Finland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",383,FALSE,9687,9687,TRUE,FALSE
+2021,2021,CHN,China,FRA,France,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2276119,FALSE,10827731,10827731,TRUE,FALSE
+2021,2021,CHN,China,GAB,Gabon,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",221460,FALSE,1080309,1080309,TRUE,FALSE
+2021,2021,CHN,China,GMB,Gambia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",5967665,FALSE,21316688,21316688,TRUE,FALSE
+2021,2021,CHN,China,DEU,Germany,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",40018.649,TRUE,541465,541465,TRUE,FALSE
+2021,2021,CHN,China,GHA,Ghana,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",22776600,FALSE,102774985,102774985,TRUE,FALSE
+2021,2021,CHN,China,GRC,Greece,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",37,FALSE,1558,1558,TRUE,FALSE
+2021,2021,CHN,China,GIN,Guinea,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3542260,FALSE,13131916,13131916,TRUE,FALSE
+2021,2021,CHN,China,HKG,"China, Hong Kong SAR",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1701055,FALSE,101616987,101616987,TRUE,FALSE
+2021,2021,CHN,China,HUN,Hungary,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8639,FALSE,61423,61423,TRUE,FALSE
+2021,2021,CHN,China,IDN,Indonesia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",5582,FALSE,49924,49924,TRUE,FALSE
+2021,2021,CHN,China,IRN,Iran,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",158960,FALSE,522112,522112,TRUE,FALSE
+2021,2021,CHN,China,IRQ,Iraq,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",997,FALSE,11051,11051,TRUE,FALSE
+2021,2021,CHN,China,IRL,Ireland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2481,FALSE,90450,90450,TRUE,FALSE
+2021,2021,CHN,China,ISR,Israel,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",24148,FALSE,156417,156417,TRUE,FALSE
+2021,2021,CHN,China,ITA,Italy,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",804303,FALSE,3547920,3547920,TRUE,FALSE
+2021,2021,CHN,China,CIV,Côte d'Ivoire,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2437160,FALSE,11822826,11822826,TRUE,FALSE
+2021,2021,CHN,China,JPN,Japan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",480134,FALSE,1672220,1672220,TRUE,FALSE
+2021,2021,CHN,China,KAZ,Kazakhstan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6720,FALSE,73223,73223,TRUE,FALSE
+2021,2021,CHN,China,JOR,Jordan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",290,FALSE,6692,6692,TRUE,FALSE
+2021,2021,CHN,China,PRK,Dem. People's Rep. of Korea,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",16,FALSE,560,560,TRUE,FALSE
+2021,2021,CHN,China,KOR,Rep. of Korea,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",15397,FALSE,1283642,1283642,TRUE,FALSE
+2021,2021,CHN,China,KWT,Kuwait,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1748,FALSE,23168,23168,TRUE,FALSE
+2021,2021,CHN,China,LBN,Lebanon,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",95,FALSE,1493,1493,TRUE,FALSE
+2021,2021,CHN,China,LVA,Latvia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",145,FALSE,14925,14925,TRUE,FALSE
+2021,2021,CHN,China,LBR,Liberia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",184340,FALSE,673826,673826,TRUE,FALSE
+2021,2021,CHN,China,LBY,Libya,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",4128951,FALSE,16476375,16476375,TRUE,FALSE
+2021,2021,CHN,China,MAC,"China, Macao SAR",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",4123,FALSE,104651,104651,TRUE,FALSE
+2021,2021,CHN,China,MYS,Malaysia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2456876,FALSE,107760653,107760653,TRUE,FALSE
+2021,2021,CHN,China,MLI,Mali,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",5495983,FALSE,24778424,24778424,TRUE,FALSE
+2021,2021,CHN,China,MLT,Malta,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3069,FALSE,15997,15997,TRUE,FALSE
+2021,2021,CHN,China,MRT,Mauritania,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",17519020,FALSE,75922069,75922069,TRUE,FALSE
+2021,2021,CHN,China,MUS,Mauritius,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3681,FALSE,34150,34150,TRUE,FALSE
+2021,2021,CHN,China,MEX,Mexico,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",22866,FALSE,327866,327866,TRUE,FALSE
+2021,2021,CHN,China,S19,"Other Asia, nes",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",744,FALSE,31263,31263,TRUE,FALSE
+2021,2021,CHN,China,MNG,Mongolia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",50971,FALSE,95785,95785,TRUE,FALSE
+2021,2021,CHN,China,MAR,Morocco,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1653352,FALSE,7125564,7125564,TRUE,FALSE
+2021,2021,CHN,China,OMN,Oman,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",14866,FALSE,32993,32993,TRUE,FALSE
+2021,2021,CHN,China,NAM,Namibia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",180,FALSE,2953,2953,TRUE,FALSE
+2021,2021,CHN,China,NPL,Nepal,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",25,FALSE,856,856,TRUE,FALSE
+2021,2021,CHN,China,NLD,Netherlands,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1034863,FALSE,5972637,5972637,TRUE,FALSE
+2021,2021,CHN,China,NZL,New Zealand,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2929,FALSE,32415,32415,TRUE,FALSE
+2021,2021,CHN,China,NER,Niger,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3333408,FALSE,13235033,13235033,TRUE,FALSE
+2021,2021,CHN,China,NGA,Nigeria,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",104300,FALSE,455911,455911,TRUE,FALSE
+2021,2021,CHN,China,PAK,Pakistan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",45840,FALSE,100414,100414,TRUE,FALSE
+2021,2021,CHN,China,PAN,Panama,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",14189,FALSE,333806,333806,TRUE,FALSE
+2021,2021,CHN,China,PER,Peru,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",15579,FALSE,188473,188473,TRUE,FALSE
+2021,2021,CHN,China,PHL,Philippines,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",20662,FALSE,154096,154096,TRUE,FALSE
+2021,2021,CHN,China,POL,Poland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",21450,FALSE,162975,162975,TRUE,FALSE
+2021,2021,CHN,China,PRT,Portugal,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",10152,FALSE,130734,130734,TRUE,FALSE
+2021,2021,CHN,China,QAT,Qatar,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",17673,FALSE,108359,108359,TRUE,FALSE
+2021,2021,CHN,China,RUS,Russian Federation,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",104172,FALSE,1195006,1195006,TRUE,FALSE
+2021,2021,CHN,China,SAU,Saudi Arabia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",288260,FALSE,1586696,1586696,TRUE,FALSE
+2021,2021,CHN,China,SEN,Senegal,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",15834862,FALSE,67400552,67400552,TRUE,FALSE
+2021,2021,CHN,China,SLE,Sierra Leone,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",350780,FALSE,573945,573945,TRUE,FALSE
+2021,2021,CHN,China,IND,India,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2346.597,TRUE,48262,48262,TRUE,FALSE
+2021,2021,CHN,China,SGP,Singapore,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",76382,FALSE,690800,690800,TRUE,FALSE
+2021,2021,CHN,China,VNM,Viet Nam,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",40923,FALSE,2150312,2150312,TRUE,FALSE
+2021,2021,CHN,China,SVN,Slovenia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",663,FALSE,27000,27000,TRUE,FALSE
+2021,2021,CHN,China,ZAF,South Africa,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",89863,FALSE,1496255,1496255,TRUE,FALSE
+2021,2021,CHN,China,ESP,Spain,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",629315,FALSE,3877842,3877842,TRUE,FALSE
+2021,2021,CHN,China,SDN,Sudan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",38800,FALSE,124160,124160,TRUE,FALSE
+2021,2021,CHN,China,SWE,Sweden,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",104,FALSE,3292,3292,TRUE,FALSE
+2021,2021,CHN,China,CHE,Switzerland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1923.974,TRUE,60188,60188,TRUE,FALSE
+2021,2021,CHN,China,SYR,Syria,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",13200,FALSE,41508,41508,TRUE,FALSE
+2021,2021,CHN,China,TJK,Tajikistan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",26320,FALSE,81752,81752,TRUE,FALSE
+2021,2021,CHN,China,THA,Thailand,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",389121,FALSE,10557327,10557327,TRUE,FALSE
+2021,2021,CHN,China,TGO,Togo,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",11944690,FALSE,55042862,55042862,TRUE,FALSE
+2021,2021,CHN,China,ARE,United Arab Emirates,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",181225.974,TRUE,792722,792722,TRUE,FALSE
+2021,2021,CHN,China,UKR,Ukraine,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6626,FALSE,107073,107073,TRUE,FALSE
+2021,2021,CHN,China,EGY,Egypt,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",53881.649,TRUE,332192,332192,TRUE,FALSE
+2021,2021,CHN,China,GBR,United Kingdom,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",73617,FALSE,979547,979547,TRUE,FALSE
+2021,2021,CHN,China,USA,USA,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1598007,FALSE,21993419,21993419,TRUE,FALSE
+2021,2021,CHN,China,BFA,Burkina Faso,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",566864,FALSE,2392972,2392972,TRUE,FALSE
+2021,2021,CHN,China,UZB,Uzbekistan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",79608,FALSE,536129,536129,TRUE,FALSE
+2021,2021,CHN,China,YEM,Yemen,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",14774,FALSE,30945,30945,TRUE,FALSE
+2021,2021,JPN,Japan,W00,World,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2229220,FALSE,98556491.47,98556491.47,FALSE,TRUE
+2021,2021,JPN,Japan,ARG,Argentina,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",320,FALSE,16874.035,16874.035,TRUE,FALSE
+2021,2021,JPN,Japan,AUS,Australia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",76382,FALSE,2462205.978,2462205.978,TRUE,FALSE
+2021,2021,JPN,Japan,AUT,Austria,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",487,FALSE,20573.202,20573.202,TRUE,FALSE
+2021,2021,JPN,Japan,BHR,Bahrain,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",52,FALSE,7945.01,7945.01,TRUE,FALSE
+2021,2021,JPN,Japan,BEL,Belgium,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2387,FALSE,172138.846,172138.846,TRUE,FALSE
+2021,2021,JPN,Japan,BRA,Brazil,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",4367,FALSE,143228.85,143228.85,TRUE,FALSE
+2021,2021,JPN,Japan,BRN,Brunei Darussalam,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",65,FALSE,5530.529,5530.529,TRUE,FALSE
+2021,2021,JPN,Japan,BGR,Bulgaria,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",101,FALSE,4309.621,4309.621,TRUE,FALSE
+2021,2021,JPN,Japan,MMR,Myanmar,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",582,FALSE,12874.196,12874.196,TRUE,FALSE
+2021,2021,JPN,Japan,KHM,Cambodia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1722,FALSE,67559.919,67559.919,TRUE,FALSE
+2021,2021,JPN,Japan,CAN,Canada,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",157524,FALSE,6240641.352,6240641.352,TRUE,FALSE
+2021,2021,JPN,Japan,LKA,Sri Lanka,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",200,FALSE,5120.523,5120.523,TRUE,FALSE
+2021,2021,JPN,Japan,CHL,Chile,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",523,FALSE,33620.512,33620.512,TRUE,FALSE
+2021,2021,JPN,Japan,CHN,China,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",15540,FALSE,540880.245,540880.245,TRUE,FALSE
+2021,2021,JPN,Japan,HRV,Croatia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",93,FALSE,2159.366,2159.366,TRUE,FALSE
+2021,2021,JPN,Japan,CYP,Cyprus,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",186,FALSE,18322.724,18322.724,TRUE,FALSE
+2021,2021,JPN,Japan,CZE,Czechia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3163,FALSE,209777.42,209777.42,TRUE,FALSE
+2021,2021,JPN,Japan,DNK,Denmark,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1190,FALSE,79076.539,79076.539,TRUE,FALSE
+2021,2021,JPN,Japan,EST,Estonia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",104,FALSE,19443.408,19443.408,TRUE,FALSE
+2021,2021,JPN,Japan,FIN,Finland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",353,FALSE,9093.028,9093.028,TRUE,FALSE
+2021,2021,JPN,Japan,FRA,France,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",50276,FALSE,2093337.021,2093337.021,TRUE,FALSE
+2021,2021,JPN,Japan,DEU,Germany,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",128732,FALSE,7263606.946,7263606.946,TRUE,FALSE
+2021,2021,JPN,Japan,GRC,Greece,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",454,FALSE,18113.165,18113.165,TRUE,FALSE
+2021,2021,JPN,Japan,GUM,Guam,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",106,FALSE,4582.959,4582.959,TRUE,FALSE
+2021,2021,JPN,Japan,HKG,"China, Hong Kong SAR",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",152254,FALSE,6406056.096,6406056.096,TRUE,FALSE
+2021,2021,JPN,Japan,HUN,Hungary,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1167,FALSE,95950.574,95950.574,TRUE,FALSE
+2021,2021,JPN,Japan,IDN,Indonesia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",38082,FALSE,717310.49,717310.49,TRUE,FALSE
+2021,2021,JPN,Japan,IRL,Ireland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",168,FALSE,18413.836,18413.836,TRUE,FALSE
+2021,2021,JPN,Japan,ISR,Israel,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2963,FALSE,125881.03,125881.03,TRUE,FALSE
+2021,2021,JPN,Japan,ITA,Italy,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",7033,FALSE,220474.027,220474.027,TRUE,FALSE
+2021,2021,JPN,Japan,KOR,Rep. of Korea,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1913,FALSE,78566.309,78566.309,TRUE,FALSE
+2021,2021,JPN,Japan,KWT,Kuwait,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2319,FALSE,172138.846,172138.846,TRUE,FALSE
+2021,2021,JPN,Japan,LAO,Lao People's Dem. Rep.,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",158,FALSE,3917.837,3917.837,TRUE,FALSE
+2021,2021,JPN,Japan,LVA,Latvia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",44,FALSE,2223.145,2223.145,TRUE,FALSE
+2021,2021,JPN,Japan,LTU,Lithuania,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",973,FALSE,72288.657,72288.657,TRUE,FALSE
+2021,2021,JPN,Japan,LUX,Luxembourg,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",65,FALSE,10332.157,10332.157,TRUE,FALSE
+2021,2021,JPN,Japan,MAC,"China, Macao SAR",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",5116,FALSE,257966.821,257966.821,TRUE,FALSE
+2021,2021,JPN,Japan,MYS,Malaysia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",156573,FALSE,3575409.391,3575409.391,TRUE,FALSE
+2021,2021,JPN,Japan,MLT,Malta,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3,FALSE,2587.595,2587.595,TRUE,FALSE
+2021,2021,JPN,Japan,MUS,Mauritius,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",270,FALSE,11042.835,11042.835,TRUE,FALSE
+2021,2021,JPN,Japan,MEX,Mexico,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",25009,FALSE,988142.396,988142.396,TRUE,FALSE
+2021,2021,JPN,Japan,S19,"Other Asia, nes",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",108418,FALSE,4049504.174,4049504.174,TRUE,FALSE
+2021,2021,JPN,Japan,MNG,Mongolia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2522,FALSE,67131.69,67131.69,TRUE,FALSE
+2021,2021,JPN,Japan,MDA,Rep. of Moldova,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",11,FALSE,3826.725,3826.725,TRUE,FALSE
+2021,2021,JPN,Japan,OMN,Oman,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",50,FALSE,4819.851,4819.851,TRUE,FALSE
+2021,2021,JPN,Japan,NPL,Nepal,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",19,FALSE,2505.594,2505.594,TRUE,FALSE
+2021,2021,JPN,Japan,NLD,Netherlands,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",23394,FALSE,1340355.987,1340355.987,TRUE,FALSE
+2021,2021,JPN,Japan,NZL,New Zealand,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3450,FALSE,150873.189,150873.189,TRUE,FALSE
+2021,2021,JPN,Japan,NOR,Norway,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",420,FALSE,33529.4,33529.4,TRUE,FALSE
+2021,2021,JPN,Japan,PER,Peru,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1257,FALSE,182225,182225,TRUE,FALSE
+2021,2021,JPN,Japan,PHL,Philippines,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",4386,FALSE,204884.679,204884.679,TRUE,FALSE
+2021,2021,JPN,Japan,POL,Poland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",13063,FALSE,677895.223,677895.223,TRUE,FALSE
+2021,2021,JPN,Japan,PRT,Portugal,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",100,FALSE,1995.364,1995.364,TRUE,FALSE
+2021,2021,JPN,Japan,QAT,Qatar,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",187,FALSE,19042.512,19042.512,TRUE,FALSE
+2021,2021,JPN,Japan,ROU,Romania,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",471,FALSE,22012.78,22012.78,TRUE,FALSE
+2021,2021,JPN,Japan,RUS,Russian Federation,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8183,FALSE,369625.19,369625.19,TRUE,FALSE
+2021,2021,JPN,Japan,SAU,Saudi Arabia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1097,FALSE,47351.166,47351.166,TRUE,FALSE
+2021,2021,JPN,Japan,SRB,Serbia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",150,FALSE,6951.884,6951.884,TRUE,FALSE
+2021,2021,JPN,Japan,IND,India,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8390,FALSE,206506.481,206506.481,TRUE,FALSE
+2021,2021,JPN,Japan,SGP,Singapore,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",156742,FALSE,3902193.484,3902193.484,TRUE,FALSE
+2021,2021,JPN,Japan,SVK,Slovakia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1042,FALSE,61090.931,61090.931,TRUE,FALSE
+2021,2021,JPN,Japan,VNM,Viet Nam,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",23698,FALSE,544697.859,544697.859,TRUE,FALSE
+2021,2021,JPN,Japan,SVN,Slovenia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",400,FALSE,12628.192,12628.192,TRUE,FALSE
+2021,2021,JPN,Japan,ZAF,South Africa,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",60,FALSE,4373.4,4373.4,TRUE,FALSE
+2021,2021,JPN,Japan,ESP,Spain,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6753,FALSE,236081.599,236081.599,TRUE,FALSE
+2021,2021,JPN,Japan,SWE,Sweden,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1730,FALSE,135830.515,135830.515,TRUE,FALSE
+2021,2021,JPN,Japan,CHE,Switzerland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",5668,FALSE,362245.078,362245.078,TRUE,FALSE
+2021,2021,JPN,Japan,THA,Thailand,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",69046,FALSE,2136196.341,2136196.341,TRUE,FALSE
+2021,2021,JPN,Japan,ARE,United Arab Emirates,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",10303,FALSE,556023.142,556023.142,TRUE,FALSE
+2021,2021,JPN,Japan,TUR,Türkiye,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",100,FALSE,7289,7289,TRUE,FALSE
+2021,2021,JPN,Japan,UKR,Ukraine,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1542,FALSE,144212.865,144212.865,TRUE,FALSE
+2021,2021,JPN,Japan,GBR,United Kingdom,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",37485,FALSE,2207309.647,2207309.647,TRUE,FALSE
+2021,2021,JPN,Japan,USA,USA,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",900064,FALSE,48645565.09,48645565.09,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,W00,World,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",81759.193,TRUE,1331425,1331425,FALSE,TRUE
+2021,2021,KOR,Rep. of Korea,AZE,Azerbaijan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",18,FALSE,1092,1092,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,AUS,Australia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2644.5,FALSE,35758,35758,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,BGD,Bangladesh,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",13.5,FALSE,693,693,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,BEL,Belgium,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",76.8,FALSE,2902,2902,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,BOL,Bolivia (Plurinational State of),90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",15,FALSE,420,420,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,MMR,Myanmar,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",190,FALSE,1741,1741,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,KHM,Cambodia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3,FALSE,119,119,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,CAN,Canada,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2970.942,FALSE,71007,71007,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,CHN,China,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1043.57,FALSE,36790,36790,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,CZE,Czechia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",112.5,FALSE,9404,9404,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,ECU,Ecuador,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",318,FALSE,5824,5824,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,FRA,France,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",877.19,FALSE,47270,47270,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,DEU,Germany,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2077.7,FALSE,66677,66677,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,GTM,Guatemala,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",12.37,FALSE,68,68,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,HKG,"China, Hong Kong SAR",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",12056.3,FALSE,64044,64044,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,HUN,Hungary,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",0.6,FALSE,10,10,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,IDN,Indonesia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",10172,FALSE,10385,10385,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,IRQ,Iraq,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",112.5,FALSE,2894,2894,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,JPN,Japan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",0.3,FALSE,29,29,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,KAZ,Kazakhstan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",218.7,FALSE,2213,2213,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,KWT,Kuwait,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",24.2,FALSE,2186,2186,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,KGZ,Kyrgyzstan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",0.2,FALSE,170,170,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,LAO,Lao People's Dem. Rep.,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",27.87,FALSE,527,527,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,MYS,Malaysia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3302.37,FALSE,76066,76066,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,S19,"Other Asia, nes",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1686.9,FALSE,2534,2534,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,MNG,Mongolia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1953.5,FALSE,85286,85286,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,NLD,Netherlands,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",22692.5,FALSE,121781,121781,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,CUW,Curaçao,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2.4,FALSE,69,69,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,NZL,New Zealand,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",15.75,FALSE,1748,1748,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,PHL,Philippines,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1122.868,TRUE,24988,24988,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,QAT,Qatar,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",21.12,FALSE,1609,1609,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,RUS,Russian Federation,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",330.4,FALSE,9953,9953,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,SAU,Saudi Arabia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2.2,FALSE,54,54,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,SGP,Singapore,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3641.86,FALSE,193846,193846,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,SVK,Slovakia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",30,FALSE,918,918,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,VNM,Viet Nam,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",311.8,FALSE,8003,8003,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,CHE,Switzerland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",35,FALSE,10766,10766,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,ARE,United Arab Emirates,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",19.63,FALSE,995,995,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,UKR,Ukraine,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6.8,FALSE,41,41,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,GBR,United Kingdom,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1230.43,FALSE,58826,58826,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,USA,USA,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",12367.423,FALSE,371714,371714,TRUE,FALSE
+2021,2021,KOR,Rep. of Korea,UZB,Uzbekistan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",0.5,FALSE,5,5,TRUE,FALSE
+2022,2022,CHN,China,W00,World,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",120511111.2,TRUE,677324439,677324439,FALSE,TRUE
+2022,2022,CHN,China,AFG,Afghanistan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",746030,FALSE,2765815,2765815,TRUE,FALSE
+2022,2022,CHN,China,DZA,Algeria,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6086954,FALSE,22898648,22898648,TRUE,FALSE
+2022,2022,CHN,China,AGO,Angola,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",33500,FALSE,152925,152925,TRUE,FALSE
+2022,2022,CHN,China,ARG,Argentina,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",5524,FALSE,62170,62170,TRUE,FALSE
+2022,2022,CHN,China,AUS,Australia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",90210,FALSE,1280340,1280340,TRUE,FALSE
+2022,2022,CHN,China,AUT,Austria,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",39,FALSE,712,712,TRUE,FALSE
+2022,2022,CHN,China,BEL,Belgium,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2218615,FALSE,10442779,10442779,TRUE,FALSE
+2022,2022,CHN,China,BRA,Brazil,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",7510,FALSE,91609,91609,TRUE,FALSE
+2022,2022,CHN,China,MMR,Myanmar,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",13590,FALSE,174648,174648,TRUE,FALSE
+2022,2022,CHN,China,BLR,Belarus,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",800,FALSE,7411,7411,TRUE,FALSE
+2022,2022,CHN,China,KHM,Cambodia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",10330,FALSE,130793,130793,TRUE,FALSE
+2022,2022,CHN,China,CMR,Cameroon,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",307710,FALSE,729958,729958,TRUE,FALSE
+2022,2022,CHN,China,CAN,Canada,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",304633.669,TRUE,5327370,5327370,TRUE,FALSE
+2022,2022,CHN,China,LKA,Sri Lanka,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",29.871,TRUE,184,184,TRUE,FALSE
+2022,2022,CHN,China,TCD,Chad,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",11300,FALSE,62150,62150,TRUE,FALSE
+2022,2022,CHN,China,CHL,Chile,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",71992,FALSE,678467,678467,TRUE,FALSE
+2022,2022,CHN,China,COL,Colombia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",39.356,TRUE,3592,3592,TRUE,FALSE
+2022,2022,CHN,China,COG,Congo,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",113000,FALSE,482143,482143,TRUE,FALSE
+2022,2022,CHN,China,COD,Dem. Rep. of the Congo,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3992,FALSE,7585,7585,TRUE,FALSE
+2022,2022,CHN,China,CRI,Costa Rica,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3400,FALSE,30985,30985,TRUE,FALSE
+2022,2022,CHN,China,CZE,Czechia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",4156,FALSE,275502,275502,TRUE,FALSE
+2022,2022,CHN,China,BEN,Benin,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",4381051,FALSE,18120374,18120374,TRUE,FALSE
+2022,2022,CHN,China,DNK,Denmark,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",225,FALSE,3116,3116,TRUE,FALSE
+2022,2022,CHN,China,ECU,Ecuador,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",958,FALSE,12991,12991,TRUE,FALSE
+2022,2022,CHN,China,SLV,El Salvador,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",128,FALSE,2560,2560,TRUE,FALSE
+2022,2022,CHN,China,ETH,Ethiopia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",13,FALSE,270,270,TRUE,FALSE
+2022,2022,CHN,China,FIN,Finland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2004.89,TRUE,15781,15781,TRUE,FALSE
+2022,2022,CHN,China,FRA,France,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3505204,FALSE,16824585,16824585,TRUE,FALSE
+2022,2022,CHN,China,GAB,Gabon,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",136760,FALSE,655848,655848,TRUE,FALSE
+2022,2022,CHN,China,GMB,Gambia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",5616570,FALSE,19739001,19739001,TRUE,FALSE
+2022,2022,CHN,China,DEU,Germany,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",39743.381,TRUE,982080,982080,TRUE,FALSE
+2022,2022,CHN,China,GHA,Ghana,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",24510440,FALSE,104773232,104773232,TRUE,FALSE
+2022,2022,CHN,China,GRC,Greece,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",5465,FALSE,41471,41471,TRUE,FALSE
+2022,2022,CHN,China,GTM,Guatemala,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",34,FALSE,1711,1711,TRUE,FALSE
+2022,2022,CHN,China,GIN,Guinea,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3264800,FALSE,12098436,12098436,TRUE,FALSE
+2022,2022,CHN,China,HKG,"China, Hong Kong SAR",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1691770,FALSE,83706611,83706611,TRUE,FALSE
+2022,2022,CHN,China,HUN,Hungary,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2198,FALSE,19432,19432,TRUE,FALSE
+2022,2022,CHN,China,IDN,Indonesia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",133727,FALSE,2421560,2421560,TRUE,FALSE
+2022,2022,CHN,China,IRN,Iran,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",58950,FALSE,296895,296895,TRUE,FALSE
+2022,2022,CHN,China,IRQ,Iraq,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",762,FALSE,9139,9139,TRUE,FALSE
+2022,2022,CHN,China,IRL,Ireland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2534,FALSE,81442,81442,TRUE,FALSE
+2022,2022,CHN,China,ISR,Israel,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",57567,FALSE,267506,267506,TRUE,FALSE
+2022,2022,CHN,China,ITA,Italy,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",713295,FALSE,3105680,3105680,TRUE,FALSE
+2022,2022,CHN,China,CIV,Côte d'Ivoire,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",754230,FALSE,3064898,3064898,TRUE,FALSE
+2022,2022,CHN,China,JPN,Japan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",451724,FALSE,1695221,1695221,TRUE,FALSE
+2022,2022,CHN,China,KAZ,Kazakhstan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3192,FALSE,5718,5718,TRUE,FALSE
+2022,2022,CHN,China,JOR,Jordan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",13356,FALSE,65655,65655,TRUE,FALSE
+2022,2022,CHN,China,KOR,Rep. of Korea,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",34549,FALSE,817768,817768,TRUE,FALSE
+2022,2022,CHN,China,KGZ,Kyrgyzstan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",57185,FALSE,2693055,2693055,TRUE,FALSE
+2022,2022,CHN,China,LAO,Lao People's Dem. Rep.,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",61,FALSE,31657,31657,TRUE,FALSE
+2022,2022,CHN,China,LBN,Lebanon,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",16904,FALSE,34576,34576,TRUE,FALSE
+2022,2022,CHN,China,LBR,Liberia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",89500,FALSE,224982,224982,TRUE,FALSE
+2022,2022,CHN,China,LBY,Libya,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6986677,FALSE,24702688,24702688,TRUE,FALSE
+2022,2022,CHN,China,MAC,"China, Macao SAR",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6490,FALSE,349759,349759,TRUE,FALSE
+2022,2022,CHN,China,MYS,Malaysia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1630507,FALSE,71548920,71548920,TRUE,FALSE
+2022,2022,CHN,China,MLI,Mali,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",9249023,FALSE,42185976,42185976,TRUE,FALSE
+2022,2022,CHN,China,MLT,Malta,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",200,FALSE,1400,1400,TRUE,FALSE
+2022,2022,CHN,China,MRT,Mauritania,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",12482219,FALSE,55714200,55714200,TRUE,FALSE
+2022,2022,CHN,China,MUS,Mauritius,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",4148,FALSE,42255,42255,TRUE,FALSE
+2022,2022,CHN,China,MEX,Mexico,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",42661,FALSE,623166,623166,TRUE,FALSE
+2022,2022,CHN,China,MNG,Mongolia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",138816,FALSE,192462,192462,TRUE,FALSE
+2022,2022,CHN,China,MAR,Morocco,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",557172,FALSE,2462134,2462134,TRUE,FALSE
+2022,2022,CHN,China,MOZ,Mozambique,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",16200,FALSE,83842,83842,TRUE,FALSE
+2022,2022,CHN,China,OMN,Oman,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",14880,FALSE,29963,29963,TRUE,FALSE
+2022,2022,CHN,China,NLD,Netherlands,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1069597,FALSE,5849480,5849480,TRUE,FALSE
+2022,2022,CHN,China,NZL,New Zealand,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",5048,FALSE,90685,90685,TRUE,FALSE
+2022,2022,CHN,China,NER,Niger,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3087501,FALSE,11409508,11409508,TRUE,FALSE
+2022,2022,CHN,China,NGA,Nigeria,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",49399,FALSE,190245,190245,TRUE,FALSE
+2022,2022,CHN,China,PAK,Pakistan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",63,FALSE,1311,1311,TRUE,FALSE
+2022,2022,CHN,China,PAN,Panama,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",7087,FALSE,142782,142782,TRUE,FALSE
+2022,2022,CHN,China,PER,Peru,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",39922,FALSE,410337,410337,TRUE,FALSE
+2022,2022,CHN,China,PHL,Philippines,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",34278,FALSE,436702,436702,TRUE,FALSE
+2022,2022,CHN,China,POL,Poland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",34975,FALSE,304591,304591,TRUE,FALSE
+2022,2022,CHN,China,PRT,Portugal,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8656,FALSE,99383,99383,TRUE,FALSE
+2022,2022,CHN,China,GNB,Guinea-Bissau,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",34240,FALSE,183696,183696,TRUE,FALSE
+2022,2022,CHN,China,QAT,Qatar,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",18644,FALSE,112266,112266,TRUE,FALSE
+2022,2022,CHN,China,ROU,Romania,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2113,FALSE,15400,15400,TRUE,FALSE
+2022,2022,CHN,China,RUS,Russian Federation,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",164292,FALSE,1618984,1618984,TRUE,FALSE
+2022,2022,CHN,China,SAU,Saudi Arabia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",296524,FALSE,1812555,1812555,TRUE,FALSE
+2022,2022,CHN,China,SEN,Senegal,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",16408773,FALSE,65952269,65952269,TRUE,FALSE
+2022,2022,CHN,China,SRB,Serbia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6700,FALSE,18959,18959,TRUE,FALSE
+2022,2022,CHN,China,SLE,Sierra Leone,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",329000,FALSE,542166,542166,TRUE,FALSE
+2022,2022,CHN,China,IND,India,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",7249,FALSE,113023,113023,TRUE,FALSE
+2022,2022,CHN,China,SGP,Singapore,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",67706,FALSE,1398915,1398915,TRUE,FALSE
+2022,2022,CHN,China,SVK,Slovakia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",89,FALSE,5242,5242,TRUE,FALSE
+2022,2022,CHN,China,VNM,Viet Nam,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",34639,FALSE,1680088,1680088,TRUE,FALSE
+2022,2022,CHN,China,ZAF,South Africa,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",42934,FALSE,694654,694654,TRUE,FALSE
+2022,2022,CHN,China,ESP,Spain,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",328737,FALSE,1483814,1483814,TRUE,FALSE
+2022,2022,CHN,China,SDN,Sudan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",68160,FALSE,281662,281662,TRUE,FALSE
+2022,2022,CHN,China,SUR,Suriname,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6720,FALSE,85560,85560,TRUE,FALSE
+2022,2022,CHN,China,SWE,Sweden,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",174,FALSE,5729,5729,TRUE,FALSE
+2022,2022,CHN,China,CHE,Switzerland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2097,FALSE,66762,66762,TRUE,FALSE
+2022,2022,CHN,China,THA,Thailand,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",45511,FALSE,1227409,1227409,TRUE,FALSE
+2022,2022,CHN,China,TGO,Togo,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8460950,FALSE,38198311,38198311,TRUE,FALSE
+2022,2022,CHN,China,ARE,United Arab Emirates,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",369019,FALSE,1030717,1030717,TRUE,FALSE
+2022,2022,CHN,China,TUN,Tunisia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6,FALSE,6,6,TRUE,FALSE
+2022,2022,CHN,China,TUR,Türkiye,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",631,FALSE,7857,7857,TRUE,FALSE
+2022,2022,CHN,China,TKM,Turkmenistan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3405,FALSE,40988,40988,TRUE,FALSE
+2022,2022,CHN,China,UKR,Ukraine,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",956,FALSE,10531,10531,TRUE,FALSE
+2022,2022,CHN,China,EGY,Egypt,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",85821.068,TRUE,385885,385885,TRUE,FALSE
+2022,2022,CHN,China,GBR,United Kingdom,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",78422,FALSE,1000532,1000532,TRUE,FALSE
+2022,2022,CHN,China,USA,USA,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1578748,FALSE,20069131,20069131,TRUE,FALSE
+2022,2022,CHN,China,BFA,Burkina Faso,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",930140,FALSE,4421508,4421508,TRUE,FALSE
+2022,2022,CHN,China,URY,Uruguay,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",100,FALSE,1860,1860,TRUE,FALSE
+2022,2022,CHN,China,UZB,Uzbekistan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",87597,FALSE,536659,536659,TRUE,FALSE
+2022,2022,CHN,China,YEM,Yemen,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",7240,FALSE,30475,30475,TRUE,FALSE
+2022,2022,JPN,Japan,W00,World,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2337619,FALSE,85872184.59,85872184.59,FALSE,TRUE
+2022,2022,JPN,Japan,ARG,Argentina,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",750,FALSE,13467.871,13467.871,TRUE,FALSE
+2022,2022,JPN,Japan,AUS,Australia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",63925,FALSE,2092539.021,2092539.021,TRUE,FALSE
+2022,2022,JPN,Japan,AUT,Austria,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1143,FALSE,46867.581,46867.581,TRUE,FALSE
+2022,2022,JPN,Japan,BHR,Bahrain,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",148,FALSE,7368.925,7368.925,TRUE,FALSE
+2022,2022,JPN,Japan,BEL,Belgium,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1905,FALSE,113940.771,113940.771,TRUE,FALSE
+2022,2022,JPN,Japan,BRA,Brazil,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6895,FALSE,158435.695,158435.695,TRUE,FALSE
+2022,2022,JPN,Japan,BRN,Brunei Darussalam,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",540,FALSE,5406.92,5406.92,TRUE,FALSE
+2022,2022,JPN,Japan,KHM,Cambodia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3363,FALSE,136693.943,136693.943,TRUE,FALSE
+2022,2022,JPN,Japan,CAN,Canada,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",171717,FALSE,6019514.562,6019514.562,TRUE,FALSE
+2022,2022,JPN,Japan,LKA,Sri Lanka,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",500,FALSE,18920.419,18920.419,TRUE,FALSE
+2022,2022,JPN,Japan,CHL,Chile,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",513,FALSE,27719.022,27719.022,TRUE,FALSE
+2022,2022,JPN,Japan,CHN,China,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",21723,FALSE,627598.206,627598.206,TRUE,FALSE
+2022,2022,JPN,Japan,COL,Colombia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",30,FALSE,3193.961,3193.961,TRUE,FALSE
+2022,2022,JPN,Japan,CYP,Cyprus,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",621,FALSE,24570.689,24570.689,TRUE,FALSE
+2022,2022,JPN,Japan,CZE,Czechia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3822,FALSE,228216.147,228216.147,TRUE,FALSE
+2022,2022,JPN,Japan,DNK,Denmark,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2050,FALSE,88389.079,88389.079,TRUE,FALSE
+2022,2022,JPN,Japan,EST,Estonia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",202,FALSE,28920.56,28920.56,TRUE,FALSE
+2022,2022,JPN,Japan,FIN,Finland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",542,FALSE,18928.024,18928.024,TRUE,FALSE
+2022,2022,JPN,Japan,FRA,France,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",44284,FALSE,1506112.498,1506112.498,TRUE,FALSE
+2022,2022,JPN,Japan,DEU,Germany,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",98852,FALSE,4818288.493,4818288.493,TRUE,FALSE
+2022,2022,JPN,Japan,GRC,Greece,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",355,FALSE,13490.685,13490.685,TRUE,FALSE
+2022,2022,JPN,Japan,GUM,Guam,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",877,FALSE,16464.111,16464.111,TRUE,FALSE
+2022,2022,JPN,Japan,HKG,"China, Hong Kong SAR",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",164827,FALSE,5752742.738,5752742.738,TRUE,FALSE
+2022,2022,JPN,Japan,HUN,Hungary,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1356,FALSE,121370.533,121370.533,TRUE,FALSE
+2022,2022,JPN,Japan,IDN,Indonesia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",43208,FALSE,708504.29,708504.29,TRUE,FALSE
+2022,2022,JPN,Japan,IRL,Ireland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",203,FALSE,9194.046,9194.046,TRUE,FALSE
+2022,2022,JPN,Japan,ISR,Israel,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2421,FALSE,89598.222,89598.222,TRUE,FALSE
+2022,2022,JPN,Japan,ITA,Italy,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6438,FALSE,214139.903,214139.903,TRUE,FALSE
+2022,2022,JPN,Japan,KAZ,Kazakhstan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",979,FALSE,63643.483,63643.483,TRUE,FALSE
+2022,2022,JPN,Japan,KOR,Rep. of Korea,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3057,FALSE,101666.833,101666.833,TRUE,FALSE
+2022,2022,JPN,Japan,KWT,Kuwait,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3251,FALSE,220543.035,220543.035,TRUE,FALSE
+2022,2022,JPN,Japan,KGZ,Kyrgyzstan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",107,FALSE,5178.78,5178.78,TRUE,FALSE
+2022,2022,JPN,Japan,LAO,Lao People's Dem. Rep.,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",388,FALSE,12479.263,12479.263,TRUE,FALSE
+2022,2022,JPN,Japan,LTU,Lithuania,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",474,FALSE,52358.153,52358.153,TRUE,FALSE
+2022,2022,JPN,Japan,LUX,Luxembourg,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",258,FALSE,8441.184,8441.184,TRUE,FALSE
+2022,2022,JPN,Japan,MAC,"China, Macao SAR",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3857,FALSE,189143.352,189143.352,TRUE,FALSE
+2022,2022,JPN,Japan,MYS,Malaysia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",215873,FALSE,3701253.726,3701253.726,TRUE,FALSE
+2022,2022,JPN,Japan,MLT,Malta,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",38,FALSE,1756.679,1756.679,TRUE,FALSE
+2022,2022,JPN,Japan,MUS,Mauritius,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",590,FALSE,21772.17,21772.17,TRUE,FALSE
+2022,2022,JPN,Japan,MEX,Mexico,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",26665,FALSE,910636.418,910636.418,TRUE,FALSE
+2022,2022,JPN,Japan,S19,"Other Asia, nes",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",111460,FALSE,3875750.484,3875750.484,TRUE,FALSE
+2022,2022,JPN,Japan,MNG,Mongolia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",4141,FALSE,67073.189,67073.189,TRUE,FALSE
+2022,2022,JPN,Japan,OMN,Oman,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",40,FALSE,1733.865,1733.865,TRUE,FALSE
+2022,2022,JPN,Japan,NLD,Netherlands,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",19455,FALSE,842361.691,842361.691,TRUE,FALSE
+2022,2022,JPN,Japan,NZL,New Zealand,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3032,FALSE,132397.305,132397.305,TRUE,FALSE
+2022,2022,JPN,Japan,NOR,Norway,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",296,FALSE,45034.856,45034.856,TRUE,FALSE
+2022,2022,JPN,Japan,PHL,Philippines,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",39381,FALSE,1833234.983,1833234.983,TRUE,FALSE
+2022,2022,JPN,Japan,POL,Poland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",33343,FALSE,1384141.196,1384141.196,TRUE,FALSE
+2022,2022,JPN,Japan,PRT,Portugal,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",18,FALSE,2433.494,2433.494,TRUE,FALSE
+2022,2022,JPN,Japan,QAT,Qatar,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1237,FALSE,49650.89,49650.89,TRUE,FALSE
+2022,2022,JPN,Japan,ROU,Romania,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",9,FALSE,2304.215,2304.215,TRUE,FALSE
+2022,2022,JPN,Japan,RUS,Russian Federation,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3056,FALSE,107613.685,107613.685,TRUE,FALSE
+2022,2022,JPN,Japan,SAU,Saudi Arabia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6052,FALSE,233820.788,233820.788,TRUE,FALSE
+2022,2022,JPN,Japan,IND,India,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",7265,FALSE,173112.708,173112.708,TRUE,FALSE
+2022,2022,JPN,Japan,SGP,Singapore,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",153982,FALSE,3563061.663,3563061.663,TRUE,FALSE
+2022,2022,JPN,Japan,SVK,Slovakia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1567,FALSE,74677.859,74677.859,TRUE,FALSE
+2022,2022,JPN,Japan,VNM,Viet Nam,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",20801,FALSE,421427.997,421427.997,TRUE,FALSE
+2022,2022,JPN,Japan,SVN,Slovenia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",295,FALSE,9711.164,9711.164,TRUE,FALSE
+2022,2022,JPN,Japan,ZAF,South Africa,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",124,FALSE,8349.928,8349.928,TRUE,FALSE
+2022,2022,JPN,Japan,ESP,Spain,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",7159,FALSE,264421.981,264421.981,TRUE,FALSE
+2022,2022,JPN,Japan,SWE,Sweden,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3139,FALSE,171340.82,171340.82,TRUE,FALSE
+2022,2022,JPN,Japan,CHE,Switzerland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",7273,FALSE,372887.389,372887.389,TRUE,FALSE
+2022,2022,JPN,Japan,THA,Thailand,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",94838,FALSE,2342458.895,2342458.895,TRUE,FALSE
+2022,2022,JPN,Japan,ARE,United Arab Emirates,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",10784,FALSE,402537.997,402537.997,TRUE,FALSE
+2022,2022,JPN,Japan,TUR,Türkiye,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",50,FALSE,3041.868,3041.868,TRUE,FALSE
+2022,2022,JPN,Japan,UKR,Ukraine,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",373,FALSE,30160.121,30160.121,TRUE,FALSE
+2022,2022,JPN,Japan,GBR,United Kingdom,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",41523,FALSE,1881942.894,1881942.894,TRUE,FALSE
+2022,2022,JPN,Japan,USA,USA,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",868179,FALSE,39376030.68,39376030.68,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,W00,World,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",61486.088,TRUE,1171201,1171201,FALSE,TRUE
+2022,2022,KOR,Rep. of Korea,AGO,Angola,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",0.3,FALSE,5,5,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,AUS,Australia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",921.86,FALSE,33365,33365,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,AUT,Austria,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",25.296,FALSE,1310,1310,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,BHR,Bahrain,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",21,FALSE,1057,1057,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,BTN,Bhutan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6.8,FALSE,121,121,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,BRA,Brazil,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1402.38,FALSE,2479,2479,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,MMR,Myanmar,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1678.88,FALSE,13626,13626,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,KHM,Cambodia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",7.5,FALSE,289,289,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,CAN,Canada,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",4904.49,FALSE,79040,79040,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,CHN,China,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1307.12,FALSE,53496,53496,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,CZE,Czechia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",83.5,FALSE,9901,9901,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,ECU,Ecuador,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",50,FALSE,385,385,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,FIN,Finland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",75.536,FALSE,2169,2169,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,FRA,France,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1699.1,FALSE,16511,16511,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,DEU,Germany,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2635.61,FALSE,57032,57032,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,GTM,Guatemala,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",87.17,FALSE,659,659,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,HTI,Haiti,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",0.35,FALSE,6,6,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,HKG,"China, Hong Kong SAR",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",705.1,FALSE,41302,41302,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,IDN,Indonesia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",14725,FALSE,15704,15704,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,IRQ,Iraq,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",250,FALSE,4626,4626,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,JPN,Japan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",0.9,FALSE,70,70,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,KAZ,Kazakhstan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",16.2,FALSE,161,161,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,KEN,Kenya,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1,FALSE,22,22,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,KWT,Kuwait,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",9.9,FALSE,471,471,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,MYS,Malaysia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2306.12,FALSE,79210,79210,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,MEX,Mexico,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",450,FALSE,460,460,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,S19,"Other Asia, nes",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",262.5,FALSE,249,249,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,MNG,Mongolia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",714,FALSE,31178,31178,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,MDA,Rep. of Moldova,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",0.1,FALSE,1,1,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,NLD,Netherlands,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",214.2,FALSE,17609,17609,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,MNP,N. Mariana Isds,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1.732,TRUE,33,33,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,PHL,Philippines,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",753.048,TRUE,20832,20832,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,QAT,Qatar,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",14.16,FALSE,1304,1304,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,RUS,Russian Federation,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",370,FALSE,8605,8605,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,SRB,Serbia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1.846,FALSE,21,21,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,IND,India,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2.6,FALSE,19,19,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,SGP,Singapore,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",13769.42,FALSE,266296,266296,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,SVK,Slovakia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",840,FALSE,3384,3384,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,VNM,Viet Nam,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",378.32,FALSE,12867,12867,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,ZAF,South Africa,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",0.05,FALSE,24,24,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,SWE,Sweden,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",7,FALSE,1698,1698,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,CHE,Switzerland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3.2,FALSE,151,151,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,THA,Thailand,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",5.72,FALSE,398,398,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,ARE,United Arab Emirates,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",104.61,TRUE,237,237,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,GBR,United Kingdom,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",4054.3,FALSE,26095,26095,TRUE,FALSE
+2022,2022,KOR,Rep. of Korea,USA,USA,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6618.17,FALSE,366723,366723,TRUE,FALSE
+2023,2023,CHN,China,W00,World,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",133365521.6,TRUE,601667382,601667382,FALSE,TRUE
+2023,2023,CHN,China,AFG,Afghanistan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",558130,FALSE,1734649,1734649,TRUE,FALSE
+2023,2023,CHN,China,DZA,Algeria,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",7034475,FALSE,23220150,23220150,TRUE,FALSE
+2023,2023,CHN,China,AGO,Angola,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",67500,FALSE,295116,295116,TRUE,FALSE
+2023,2023,CHN,China,ARG,Argentina,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",7966,FALSE,97795,97795,TRUE,FALSE
+2023,2023,CHN,China,AUS,Australia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",88636,FALSE,1296894,1296894,TRUE,FALSE
+2023,2023,CHN,China,AUT,Austria,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2008,FALSE,23096,23096,TRUE,FALSE
+2023,2023,CHN,China,BHS,Bahamas,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2,FALSE,23,23,TRUE,FALSE
+2023,2023,CHN,China,BHR,Bahrain,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",249,FALSE,7490,7490,TRUE,FALSE
+2023,2023,CHN,China,BGD,Bangladesh,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",332,FALSE,16273,16273,TRUE,FALSE
+2023,2023,CHN,China,BEL,Belgium,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2420942,FALSE,11364327,11364327,TRUE,FALSE
+2023,2023,CHN,China,BRA,Brazil,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8439,FALSE,91437,91437,TRUE,FALSE
+2023,2023,CHN,China,BRN,Brunei Darussalam,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",108,FALSE,1334,1334,TRUE,FALSE
+2023,2023,CHN,China,BGR,Bulgaria,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",4.66,TRUE,52,52,TRUE,FALSE
+2023,2023,CHN,China,MMR,Myanmar,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",12427,FALSE,152791,152791,TRUE,FALSE
+2023,2023,CHN,China,KHM,Cambodia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6347,FALSE,167906,167906,TRUE,FALSE
+2023,2023,CHN,China,CMR,Cameroon,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",185500,FALSE,450573,450573,TRUE,FALSE
+2023,2023,CHN,China,CAN,Canada,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",354587,FALSE,5462530,5462530,TRUE,FALSE
+2023,2023,CHN,China,CAF,Central African Rep.,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3500,FALSE,14045,14045,TRUE,FALSE
+2023,2023,CHN,China,LKA,Sri Lanka,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",31.295,TRUE,538,538,TRUE,FALSE
+2023,2023,CHN,China,TCD,Chad,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",27000,FALSE,148500,148500,TRUE,FALSE
+2023,2023,CHN,China,CHL,Chile,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",64806,FALSE,691251,691251,TRUE,FALSE
+2023,2023,CHN,China,COL,Colombia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2230,FALSE,46173,46173,TRUE,FALSE
+2023,2023,CHN,China,COG,Congo,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",142892,FALSE,655239,655239,TRUE,FALSE
+2023,2023,CHN,China,CRI,Costa Rica,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",5229,FALSE,48335,48335,TRUE,FALSE
+2023,2023,CHN,China,HRV,Croatia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",62,FALSE,2937,2937,TRUE,FALSE
+2023,2023,CHN,China,CZE,Czechia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3879,FALSE,258217,258217,TRUE,FALSE
+2023,2023,CHN,China,BEN,Benin,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",5985266,FALSE,24665524,24665524,TRUE,FALSE
+2023,2023,CHN,China,DNK,Denmark,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",275,FALSE,4056,4056,TRUE,FALSE
+2023,2023,CHN,China,ECU,Ecuador,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",280,FALSE,8400,8400,TRUE,FALSE
+2023,2023,CHN,China,SLV,El Salvador,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",302,FALSE,5384,5384,TRUE,FALSE
+2023,2023,CHN,China,GNQ,Equatorial Guinea,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",10440,FALSE,44266,44266,TRUE,FALSE
+2023,2023,CHN,China,FIN,Finland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2010.217,TRUE,16035,16035,TRUE,FALSE
+2023,2023,CHN,China,FRA,France,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2435603.33,TRUE,10702637,10702637,TRUE,FALSE
+2023,2023,CHN,China,GAB,Gabon,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",188200,FALSE,881394,881394,TRUE,FALSE
+2023,2023,CHN,China,GMB,Gambia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8038163,FALSE,29497635,29497635,TRUE,FALSE
+2023,2023,CHN,China,DEU,Germany,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",67776.433,TRUE,998229,998229,TRUE,FALSE
+2023,2023,CHN,China,GHA,Ghana,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",35289680,FALSE,141710820,141710820,TRUE,FALSE
+2023,2023,CHN,China,GRC,Greece,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",5773,FALSE,49425,49425,TRUE,FALSE
+2023,2023,CHN,China,GTM,Guatemala,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",66,FALSE,1385,1385,TRUE,FALSE
+2023,2023,CHN,China,GIN,Guinea,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3528780,FALSE,14037218,14037218,TRUE,FALSE
+2023,2023,CHN,China,GUY,Guyana,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",240,FALSE,2804,2804,TRUE,FALSE
+2023,2023,CHN,China,HND,Honduras,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",72,FALSE,324,324,TRUE,FALSE
+2023,2023,CHN,China,HKG,"China, Hong Kong SAR",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",437290,FALSE,13482304,13482304,TRUE,FALSE
+2023,2023,CHN,China,HUN,Hungary,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",5804,FALSE,43714,43714,TRUE,FALSE
+2023,2023,CHN,China,IDN,Indonesia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",250675,FALSE,2438398,2438398,TRUE,FALSE
+2023,2023,CHN,China,IRL,Ireland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2075,FALSE,48533,48533,TRUE,FALSE
+2023,2023,CHN,China,ISR,Israel,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",27364,FALSE,88802,88802,TRUE,FALSE
+2023,2023,CHN,China,ITA,Italy,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",832429.217,TRUE,3443754,3443754,TRUE,FALSE
+2023,2023,CHN,China,CIV,Côte d'Ivoire,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",703381,FALSE,2501926,2501926,TRUE,FALSE
+2023,2023,CHN,China,JPN,Japan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",462221,FALSE,1899647,1899647,TRUE,FALSE
+2023,2023,CHN,China,KAZ,Kazakhstan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6405,FALSE,11997,11997,TRUE,FALSE
+2023,2023,CHN,China,JOR,Jordan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",650,FALSE,13833,13833,TRUE,FALSE
+2023,2023,CHN,China,PRK,Dem. People's Rep. of Korea,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",146,FALSE,1510,1510,TRUE,FALSE
+2023,2023,CHN,China,KOR,Rep. of Korea,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",32762,FALSE,653791,653791,TRUE,FALSE
+2023,2023,CHN,China,KWT,Kuwait,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",220,FALSE,1585,1585,TRUE,FALSE
+2023,2023,CHN,China,LBN,Lebanon,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8205,FALSE,18928,18928,TRUE,FALSE
+2023,2023,CHN,China,LBR,Liberia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",174700,FALSE,542971,542971,TRUE,FALSE
+2023,2023,CHN,China,LBY,Libya,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",5883033,FALSE,20936757,20936757,TRUE,FALSE
+2023,2023,CHN,China,LTU,Lithuania,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",224,FALSE,7892,7892,TRUE,FALSE
+2023,2023,CHN,China,MAC,"China, Macao SAR",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",5748,FALSE,113050,113050,TRUE,FALSE
+2023,2023,CHN,China,MYS,Malaysia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",710096,FALSE,25789637,25789637,TRUE,FALSE
+2023,2023,CHN,China,MLI,Mali,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",11956428,FALSE,50320939,50320939,TRUE,FALSE
+2023,2023,CHN,China,MRT,Mauritania,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",15823127,FALSE,67141885,67141885,TRUE,FALSE
+2023,2023,CHN,China,MUS,Mauritius,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3300,FALSE,27849,27849,TRUE,FALSE
+2023,2023,CHN,China,MEX,Mexico,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",68232,FALSE,713725,713725,TRUE,FALSE
+2023,2023,CHN,China,S19,"Other Asia, nes",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",19,FALSE,4596,4596,TRUE,FALSE
+2023,2023,CHN,China,MNG,Mongolia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",35172,FALSE,114971,114971,TRUE,FALSE
+2023,2023,CHN,China,MAR,Morocco,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",485342,FALSE,2524690,2524690,TRUE,FALSE
+2023,2023,CHN,China,OMN,Oman,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",28244,FALSE,56396,56396,TRUE,FALSE
+2023,2023,CHN,China,NLD,Netherlands,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",735448,FALSE,4577061,4577061,TRUE,FALSE
+2023,2023,CHN,China,NZL,New Zealand,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6757,FALSE,99167,99167,TRUE,FALSE
+2023,2023,CHN,China,NER,Niger,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2141090,FALSE,8322976,8322976,TRUE,FALSE
+2023,2023,CHN,China,NGA,Nigeria,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",158333,FALSE,673075,673075,TRUE,FALSE
+2023,2023,CHN,China,PAK,Pakistan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",28,FALSE,2644,2644,TRUE,FALSE
+2023,2023,CHN,China,PAN,Panama,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",7744,FALSE,165909,165909,TRUE,FALSE
+2023,2023,CHN,China,PER,Peru,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",22941,FALSE,320022,320022,TRUE,FALSE
+2023,2023,CHN,China,PHL,Philippines,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",22343,FALSE,203333,203333,TRUE,FALSE
+2023,2023,CHN,China,POL,Poland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",44370,FALSE,393687,393687,TRUE,FALSE
+2023,2023,CHN,China,PRT,Portugal,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",18604,FALSE,190319,190319,TRUE,FALSE
+2023,2023,CHN,China,GNB,Guinea-Bissau,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",96000,FALSE,481200,481200,TRUE,FALSE
+2023,2023,CHN,China,QAT,Qatar,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",18514,FALSE,110433,110433,TRUE,FALSE
+2023,2023,CHN,China,RUS,Russian Federation,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",126018,FALSE,1598584,1598584,TRUE,FALSE
+2023,2023,CHN,China,SAU,Saudi Arabia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",281455,FALSE,1689320,1689320,TRUE,FALSE
+2023,2023,CHN,China,SEN,Senegal,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",16253005,FALSE,67504201,67504201,TRUE,FALSE
+2023,2023,CHN,China,SRB,Serbia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6800,FALSE,23293,23293,TRUE,FALSE
+2023,2023,CHN,China,SLE,Sierra Leone,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",322000,FALSE,571687,571687,TRUE,FALSE
+2023,2023,CHN,China,IND,India,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3901,FALSE,57013,57013,TRUE,FALSE
+2023,2023,CHN,China,SGP,Singapore,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",74176,FALSE,2000346,2000346,TRUE,FALSE
+2023,2023,CHN,China,SVK,Slovakia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",252,FALSE,6522,6522,TRUE,FALSE
+2023,2023,CHN,China,VNM,Viet Nam,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",12784,FALSE,261437,261437,TRUE,FALSE
+2023,2023,CHN,China,SVN,Slovenia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",705,FALSE,13521,13521,TRUE,FALSE
+2023,2023,CHN,China,ZAF,South Africa,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",28916,FALSE,223674,223674,TRUE,FALSE
+2023,2023,CHN,China,ESP,Spain,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",466001,FALSE,3941678,3941678,TRUE,FALSE
+2023,2023,CHN,China,SDN,Sudan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",19400,FALSE,73720,73720,TRUE,FALSE
+2023,2023,CHN,China,SWE,Sweden,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",94,FALSE,2920,2920,TRUE,FALSE
+2023,2023,CHN,China,CHE,Switzerland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",817.433,TRUE,34266,34266,TRUE,FALSE
+2023,2023,CHN,China,SYR,Syria,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",13200,FALSE,61460,61460,TRUE,FALSE
+2023,2023,CHN,China,TJK,Tajikistan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1,FALSE,12,12,TRUE,FALSE
+2023,2023,CHN,China,THA,Thailand,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",24704,FALSE,958938,958938,TRUE,FALSE
+2023,2023,CHN,China,TGO,Togo,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",5188115,FALSE,21420751,21420751,TRUE,FALSE
+2023,2023,CHN,China,ARE,United Arab Emirates,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",53635,FALSE,412658,412658,TRUE,FALSE
+2023,2023,CHN,China,TUN,Tunisia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6,FALSE,6,6,TRUE,FALSE
+2023,2023,CHN,China,TUR,Türkiye,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",634,FALSE,13350,13350,TRUE,FALSE
+2023,2023,CHN,China,TKM,Turkmenistan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",5085,FALSE,38100,38100,TRUE,FALSE
+2023,2023,CHN,China,UKR,Ukraine,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1365,FALSE,14226,14226,TRUE,FALSE
+2023,2023,CHN,China,EGY,Egypt,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",15425,FALSE,104470,104470,TRUE,FALSE
+2023,2023,CHN,China,GBR,United Kingdom,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",54434,FALSE,914661,914661,TRUE,FALSE
+2023,2023,CHN,China,USA,USA,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1443935,FALSE,17065111,17065111,TRUE,FALSE
+2023,2023,CHN,China,BFA,Burkina Faso,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1119440,FALSE,4827024,4827024,TRUE,FALSE
+2023,2023,CHN,China,UZB,Uzbekistan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",78465,FALSE,447483,447483,TRUE,FALSE
+2023,2023,CHN,China,VEN,Venezuela,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",480,FALSE,16350,16350,TRUE,FALSE
+2023,2023,CHN,China,YEM,Yemen,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",4500,FALSE,11734,11734,TRUE,FALSE
+2023,2023,CHN,China,_X ,"Areas, nes",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",100,FALSE,1753,1753,TRUE,FALSE
+2023,2023,JPN,Japan,W00,World,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2708724.619,TRUE,106171223.4,106171223.4,FALSE,TRUE
+2023,2023,JPN,Japan,ARG,Argentina,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1847,FALSE,26492.749,26492.749,TRUE,FALSE
+2023,2023,JPN,Japan,AUS,Australia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",72765,FALSE,2194663.058,2194663.058,TRUE,FALSE
+2023,2023,JPN,Japan,AUT,Austria,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2009,FALSE,102369.35,102369.35,TRUE,FALSE
+2023,2023,JPN,Japan,BHR,Bahrain,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",489,FALSE,29653.088,29653.088,TRUE,FALSE
+2023,2023,JPN,Japan,BEL,Belgium,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3403,FALSE,174224.349,174224.349,TRUE,FALSE
+2023,2023,JPN,Japan,BRA,Brazil,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",4937,FALSE,128221.49,128221.49,TRUE,FALSE
+2023,2023,JPN,Japan,BRN,Brunei Darussalam,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",126,FALSE,6391.856,6391.856,TRUE,FALSE
+2023,2023,JPN,Japan,BGR,Bulgaria,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",30,FALSE,2135.364,2135.364,TRUE,FALSE
+2023,2023,JPN,Japan,MMR,Myanmar,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",265,FALSE,4526.972,4526.972,TRUE,FALSE
+2023,2023,JPN,Japan,KHM,Cambodia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3048,FALSE,119502.087,119502.087,TRUE,FALSE
+2023,2023,JPN,Japan,CAN,Canada,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",170782,FALSE,5883554.193,5883554.193,TRUE,FALSE
+2023,2023,JPN,Japan,LKA,Sri Lanka,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",78,FALSE,2975.274,2975.274,TRUE,FALSE
+2023,2023,JPN,Japan,CHL,Chile,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",163,FALSE,11324.547,11324.547,TRUE,FALSE
+2023,2023,JPN,Japan,CHN,China,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",16366,FALSE,629661.901,629661.901,TRUE,FALSE
+2023,2023,JPN,Japan,COL,Colombia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",101,FALSE,10064.682,10064.682,TRUE,FALSE
+2023,2023,JPN,Japan,HRV,Croatia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",48,FALSE,4811.687,4811.687,TRUE,FALSE
+2023,2023,JPN,Japan,CYP,Cyprus,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",238,FALSE,17232.387,17232.387,TRUE,FALSE
+2023,2023,JPN,Japan,CZE,Czechia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",7780,FALSE,391362.396,391362.396,TRUE,FALSE
+2023,2023,JPN,Japan,DNK,Denmark,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3897,FALSE,119075.015,119075.015,TRUE,FALSE
+2023,2023,JPN,Japan,EST,Estonia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",332.619,TRUE,25012.23,25012.23,TRUE,FALSE
+2023,2023,JPN,Japan,FIN,Finland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",944,FALSE,31845.395,31845.395,TRUE,FALSE
+2023,2023,JPN,Japan,FRA,France,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",67793,FALSE,2487720.414,2487720.414,TRUE,FALSE
+2023,2023,JPN,Japan,PYF,French Polynesia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",150,FALSE,2711.912,2711.912,TRUE,FALSE
+2023,2023,JPN,Japan,DEU,Germany,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",96530,FALSE,5283709.092,5283709.092,TRUE,FALSE
+2023,2023,JPN,Japan,GRC,Greece,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",585,FALSE,25268.474,25268.474,TRUE,FALSE
+2023,2023,JPN,Japan,GUM,Guam,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",488,FALSE,14442.179,14442.179,TRUE,FALSE
+2023,2023,JPN,Japan,HKG,"China, Hong Kong SAR",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",154249,FALSE,5258340.968,5258340.968,TRUE,FALSE
+2023,2023,JPN,Japan,HUN,Hungary,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1700,FALSE,164565.386,164565.386,TRUE,FALSE
+2023,2023,JPN,Japan,IDN,Indonesia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",56305,FALSE,889058.801,889058.801,TRUE,FALSE
+2023,2023,JPN,Japan,IRL,Ireland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",246,FALSE,15097.023,15097.023,TRUE,FALSE
+2023,2023,JPN,Japan,ISR,Israel,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3391,FALSE,122747.841,122747.841,TRUE,FALSE
+2023,2023,JPN,Japan,ITA,Italy,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8266,FALSE,261090.956,261090.956,TRUE,FALSE
+2023,2023,JPN,Japan,KAZ,Kazakhstan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1506,FALSE,90589.259,90589.259,TRUE,FALSE
+2023,2023,JPN,Japan,JOR,Jordan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",140,FALSE,9715.906,9715.906,TRUE,FALSE
+2023,2023,JPN,Japan,KOR,Rep. of Korea,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3011,FALSE,95920.551,95920.551,TRUE,FALSE
+2023,2023,JPN,Japan,KWT,Kuwait,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6714,FALSE,519740.48,519740.48,TRUE,FALSE
+2023,2023,JPN,Japan,KGZ,Kyrgyzstan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",441,FALSE,17851.643,17851.643,TRUE,FALSE
+2023,2023,JPN,Japan,LAO,Lao People's Dem. Rep.,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",363,FALSE,12278.343,12278.343,TRUE,FALSE
+2023,2023,JPN,Japan,LVA,Latvia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",138,FALSE,5053.695,5053.695,TRUE,FALSE
+2023,2023,JPN,Japan,LTU,Lithuania,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1663,FALSE,160842.734,160842.734,TRUE,FALSE
+2023,2023,JPN,Japan,MAC,"China, Macao SAR",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8244,FALSE,564910.546,564910.546,TRUE,FALSE
+2023,2023,JPN,Japan,MYS,Malaysia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",220546,FALSE,3789602.019,3789602.019,TRUE,FALSE
+2023,2023,JPN,Japan,MUS,Mauritius,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",120,FALSE,2420.079,2420.079,TRUE,FALSE
+2023,2023,JPN,Japan,MEX,Mexico,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",36047,FALSE,1158940.339,1158940.339,TRUE,FALSE
+2023,2023,JPN,Japan,S19,"Other Asia, nes",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",136550,FALSE,4761904.427,4761904.427,TRUE,FALSE
+2023,2023,JPN,Japan,MNG,Mongolia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",4390,FALSE,54565.668,54565.668,TRUE,FALSE
+2023,2023,JPN,Japan,MDA,Rep. of Moldova,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",110,FALSE,4598.15,4598.15,TRUE,FALSE
+2023,2023,JPN,Japan,MAR,Morocco,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",40,FALSE,3765.359,3765.359,TRUE,FALSE
+2023,2023,JPN,Japan,OMN,Oman,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",205,FALSE,16990.38,16990.38,TRUE,FALSE
+2023,2023,JPN,Japan,NLD,Netherlands,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",26377,FALSE,1301945.667,1301945.667,TRUE,FALSE
+2023,2023,JPN,Japan,NZL,New Zealand,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",4537,FALSE,191449.618,191449.618,TRUE,FALSE
+2023,2023,JPN,Japan,NGA,Nigeria,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",137,FALSE,5459.414,5459.414,TRUE,FALSE
+2023,2023,JPN,Japan,NOR,Norway,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",726,FALSE,78737.989,78737.989,TRUE,FALSE
+2023,2023,JPN,Japan,MNP,N. Mariana Isds,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",41,FALSE,3338.286,3338.286,TRUE,FALSE
+2023,2023,JPN,Japan,PER,Peru,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",387,FALSE,32379.236,32379.236,TRUE,FALSE
+2023,2023,JPN,Japan,PHL,Philippines,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",88627,FALSE,3372601.019,3372601.019,TRUE,FALSE
+2023,2023,JPN,Japan,POL,Poland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",43263,FALSE,1861375.445,1861375.445,TRUE,FALSE
+2023,2023,JPN,Japan,PRT,Portugal,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",133,FALSE,3786.712,3786.712,TRUE,FALSE
+2023,2023,JPN,Japan,QAT,Qatar,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1997,FALSE,87649.574,87649.574,TRUE,FALSE
+2023,2023,JPN,Japan,ROU,Romania,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",100,FALSE,6690.807,6690.807,TRUE,FALSE
+2023,2023,JPN,Japan,RUS,Russian Federation,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1645,FALSE,66580.65,66580.65,TRUE,FALSE
+2023,2023,JPN,Japan,SAU,Saudi Arabia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",60131,FALSE,3017361.864,3017361.864,TRUE,FALSE
+2023,2023,JPN,Japan,SRB,Serbia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",140,FALSE,3957.541,3957.541,TRUE,FALSE
+2023,2023,JPN,Japan,IND,India,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8364,FALSE,199898.542,199898.542,TRUE,FALSE
+2023,2023,JPN,Japan,SGP,Singapore,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",138690,FALSE,3481582.88,3481582.88,TRUE,FALSE
+2023,2023,JPN,Japan,SVK,Slovakia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2135,FALSE,138599.359,138599.359,TRUE,FALSE
+2023,2023,JPN,Japan,VNM,Viet Nam,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",27657,FALSE,656531.898,656531.898,TRUE,FALSE
+2023,2023,JPN,Japan,SVN,Slovenia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",111,FALSE,10164.333,10164.333,TRUE,FALSE
+2023,2023,JPN,Japan,ZAF,South Africa,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",103,FALSE,8043.204,8043.204,TRUE,FALSE
+2023,2023,JPN,Japan,ESP,Spain,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",12213,FALSE,465331.405,465331.405,TRUE,FALSE
+2023,2023,JPN,Japan,SWE,Sweden,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2950,FALSE,183107.463,183107.463,TRUE,FALSE
+2023,2023,JPN,Japan,CHE,Switzerland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8283,FALSE,492080.398,492080.398,TRUE,FALSE
+2023,2023,JPN,Japan,THA,Thailand,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",98367,FALSE,2919612.018,2919612.018,TRUE,FALSE
+2023,2023,JPN,Japan,ARE,United Arab Emirates,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",30350,FALSE,1249686.192,1249686.192,TRUE,FALSE
+2023,2023,JPN,Japan,TUR,Türkiye,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",160,FALSE,9680.317,9680.317,TRUE,FALSE
+2023,2023,JPN,Japan,UKR,Ukraine,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1519,FALSE,67911.693,67911.693,TRUE,FALSE
+2023,2023,JPN,Japan,GBR,United Kingdom,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",43490,FALSE,2382140.9,2382140.9,TRUE,FALSE
+2023,2023,JPN,Japan,USA,USA,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1006512,FALSE,48163996.28,48163996.28,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,W00,World,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",75838.711,TRUE,1286165,1286165,FALSE,TRUE
+2023,2023,KOR,Rep. of Korea,ALB,Albania,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",5.827,FALSE,34,34,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,AUS,Australia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",776.58,FALSE,30094,30094,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,AUT,Austria,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",99.28,FALSE,583,583,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,BHR,Bahrain,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",32.66,FALSE,2174,2174,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,BTN,Bhutan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6.75,FALSE,121,121,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,BRA,Brazil,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1300,FALSE,1729,1729,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,MMR,Myanmar,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3550.2,FALSE,8499,8499,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,KHM,Cambodia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3.6,FALSE,131,131,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,CAN,Canada,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",5001.2,FALSE,109236,109236,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,CHL,Chile,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2,FALSE,29,29,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,CHN,China,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",208,FALSE,7162,7162,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,CZE,Czechia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",90.924,FALSE,9450,9450,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,DOM,Dominican Rep.,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3,FALSE,138,138,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,ECU,Ecuador,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",68.3,FALSE,1327,1327,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,FIN,Finland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",77.6,FALSE,5174,5174,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,FRA,France,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3536.5,FALSE,51920,51920,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,DEU,Germany,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",708.34,FALSE,34562,34562,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,GUM,Guam,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",78,FALSE,659,659,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,HKG,"China, Hong Kong SAR",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",268.19,FALSE,18181,18181,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,IDN,Indonesia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",12194,FALSE,17724,17724,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,IRQ,Iraq,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",49.9,FALSE,1934,1934,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,KAZ,Kazakhstan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",92.25,FALSE,1148,1148,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,MYS,Malaysia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1252.972,FALSE,38749,38749,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,MNG,Mongolia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1512,FALSE,66024,66024,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,NLD,Netherlands,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",108.36,FALSE,6561,6561,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,NZL,New Zealand,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6,FALSE,384,384,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,NGA,Nigeria,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",10,FALSE,5,5,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,PAN,Panama,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",67.5,FALSE,881,881,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,PRY,Paraguay,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",4.5,FALSE,164,164,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,PHL,Philippines,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1158.747,TRUE,20007,20007,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,RUS,Russian Federation,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",247,FALSE,5119,5119,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,SAU,Saudi Arabia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",150,FALSE,24117,24117,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,SGP,Singapore,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",27843.37,FALSE,431706,431706,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,VNM,Viet Nam,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",218,FALSE,5106,5106,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,SWE,Sweden,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",97,FALSE,8211,8211,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,CHE,Switzerland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",155.845,FALSE,7576,7576,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,THA,Thailand,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",11.2,FALSE,311,311,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,ARE,United Arab Emirates,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",0.2,FALSE,1,1,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,GBR,United Kingdom,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8020.465,FALSE,21072,21072,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,USA,USA,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6790.051,FALSE,347922,347922,TRUE,FALSE
+2023,2023,KOR,Rep. of Korea,UZB,Uzbekistan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",32.4,FALSE,240,240,TRUE,FALSE
+2024,2024,CHN,China,W00,World,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",129297213.4,TRUE,549039958,549039958,FALSE,TRUE
+2024,2024,CHN,China,AFG,Afghanistan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",533268,FALSE,1429287,1429287,TRUE,FALSE
+2024,2024,CHN,China,ALB,Albania,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1.177,TRUE,5,5,TRUE,FALSE
+2024,2024,CHN,China,DZA,Algeria,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2887246,FALSE,9684617,9684617,TRUE,FALSE
+2024,2024,CHN,China,AGO,Angola,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",67400,FALSE,280753,280753,TRUE,FALSE
+2024,2024,CHN,China,ARG,Argentina,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",22061,FALSE,197608,197608,TRUE,FALSE
+2024,2024,CHN,China,AUS,Australia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",71442,FALSE,1150107,1150107,TRUE,FALSE
+2024,2024,CHN,China,AUT,Austria,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3593,FALSE,33520,33520,TRUE,FALSE
+2024,2024,CHN,China,BHS,Bahamas,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",7,FALSE,68,68,TRUE,FALSE
+2024,2024,CHN,China,BHR,Bahrain,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",103,FALSE,4710,4710,TRUE,FALSE
+2024,2024,CHN,China,BGD,Bangladesh,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1599,FALSE,17870,17870,TRUE,FALSE
+2024,2024,CHN,China,BEL,Belgium,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3188894,FALSE,14096168,14096168,TRUE,FALSE
+2024,2024,CHN,China,BOL,Bolivia (Plurinational State of),90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",600,FALSE,5910,5910,TRUE,FALSE
+2024,2024,CHN,China,BWA,Botswana,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",450,FALSE,3420,3420,TRUE,FALSE
+2024,2024,CHN,China,BRA,Brazil,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",13937,FALSE,136400,136400,TRUE,FALSE
+2024,2024,CHN,China,BGR,Bulgaria,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",59,FALSE,1754,1754,TRUE,FALSE
+2024,2024,CHN,China,MMR,Myanmar,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8258,FALSE,96197,96197,TRUE,FALSE
+2024,2024,CHN,China,BLR,Belarus,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",420,FALSE,4125,4125,TRUE,FALSE
+2024,2024,CHN,China,KHM,Cambodia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",10794,FALSE,128056,128056,TRUE,FALSE
+2024,2024,CHN,China,CMR,Cameroon,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",106100,FALSE,268824,268824,TRUE,FALSE
+2024,2024,CHN,China,CAN,Canada,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",306193.235,TRUE,2706246,2706246,TRUE,FALSE
+2024,2024,CHN,China,CAF,Central African Rep.,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2000,FALSE,11000,11000,TRUE,FALSE
+2024,2024,CHN,China,LKA,Sri Lanka,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6.413,TRUE,17,17,TRUE,FALSE
+2024,2024,CHN,China,TCD,Chad,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",82000,FALSE,270680,270680,TRUE,FALSE
+2024,2024,CHN,China,CHL,Chile,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",73359,FALSE,739747,739747,TRUE,FALSE
+2024,2024,CHN,China,COL,Colombia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",15,FALSE,320,320,TRUE,FALSE
+2024,2024,CHN,China,COG,Congo,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",115550,FALSE,491427,491427,TRUE,FALSE
+2024,2024,CHN,China,CRI,Costa Rica,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3231,FALSE,39635,39635,TRUE,FALSE
+2024,2024,CHN,China,HRV,Croatia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",22.177,TRUE,750,750,TRUE,FALSE
+2024,2024,CHN,China,CZE,Czechia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3193,FALSE,205081,205081,TRUE,FALSE
+2024,2024,CHN,China,BEN,Benin,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",4335791,FALSE,15397992,15397992,TRUE,FALSE
+2024,2024,CHN,China,ECU,Ecuador,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1181,FALSE,23006,23006,TRUE,FALSE
+2024,2024,CHN,China,SLV,El Salvador,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",251,FALSE,4490,4490,TRUE,FALSE
+2024,2024,CHN,China,GNQ,Equatorial Guinea,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",23000,FALSE,98985,98985,TRUE,FALSE
+2024,2024,CHN,China,EST,Estonia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",80,FALSE,1069,1069,TRUE,FALSE
+2024,2024,CHN,China,FIN,Finland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3812.471,TRUE,38506,38506,TRUE,FALSE
+2024,2024,CHN,China,FRA,France,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3004837.413,TRUE,13112309,13112309,TRUE,FALSE
+2024,2024,CHN,China,PYF,French Polynesia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1.177,TRUE,5,5,TRUE,FALSE
+2024,2024,CHN,China,GAB,Gabon,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",239160,FALSE,1064212,1064212,TRUE,FALSE
+2024,2024,CHN,China,GMB,Gambia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8370933,FALSE,30400496,30400496,TRUE,FALSE
+2024,2024,CHN,China,DEU,Germany,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",94217.239,TRUE,1069806,1069806,TRUE,FALSE
+2024,2024,CHN,China,GHA,Ghana,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",38449410,FALSE,151994723,151994723,TRUE,FALSE
+2024,2024,CHN,China,GRC,Greece,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2086,FALSE,14591,14591,TRUE,FALSE
+2024,2024,CHN,China,GIN,Guinea,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3813235,FALSE,15617689,15617689,TRUE,FALSE
+2024,2024,CHN,China,HND,Honduras,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",135,FALSE,608,608,TRUE,FALSE
+2024,2024,CHN,China,HKG,"China, Hong Kong SAR",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",256606,FALSE,4399649,4399649,TRUE,FALSE
+2024,2024,CHN,China,HUN,Hungary,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",12277,FALSE,99548,99548,TRUE,FALSE
+2024,2024,CHN,China,ISL,Iceland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",30,FALSE,293,293,TRUE,FALSE
+2024,2024,CHN,China,IDN,Indonesia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",73237.471,TRUE,645823,645823,TRUE,FALSE
+2024,2024,CHN,China,IRL,Ireland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3410,FALSE,95150,95150,TRUE,FALSE
+2024,2024,CHN,China,ISR,Israel,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",16716,FALSE,180683,180683,TRUE,FALSE
+2024,2024,CHN,China,ITA,Italy,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1016278.471,TRUE,4278133,4278133,TRUE,FALSE
+2024,2024,CHN,China,CIV,Côte d'Ivoire,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",4118860,FALSE,17056514,17056514,TRUE,FALSE
+2024,2024,CHN,China,JPN,Japan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",462808,FALSE,1842388,1842388,TRUE,FALSE
+2024,2024,CHN,China,KAZ,Kazakhstan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",37,FALSE,1241,1241,TRUE,FALSE
+2024,2024,CHN,China,JOR,Jordan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",743,FALSE,20340,20340,TRUE,FALSE
+2024,2024,CHN,China,KOR,Rep. of Korea,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",51378,FALSE,586636,586636,TRUE,FALSE
+2024,2024,CHN,China,KWT,Kuwait,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",125.55,TRUE,1028,1028,TRUE,FALSE
+2024,2024,CHN,China,LAO,Lao People's Dem. Rep.,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",100,FALSE,792,792,TRUE,FALSE
+2024,2024,CHN,China,LBN,Lebanon,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",20,FALSE,891,891,TRUE,FALSE
+2024,2024,CHN,China,LVA,Latvia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1.177,TRUE,5,5,TRUE,FALSE
+2024,2024,CHN,China,LBR,Liberia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",158500,FALSE,918354,918354,TRUE,FALSE
+2024,2024,CHN,China,LBY,Libya,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6235717,FALSE,19626701,19626701,TRUE,FALSE
+2024,2024,CHN,China,LTU,Lithuania,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1756,FALSE,55789,55789,TRUE,FALSE
+2024,2024,CHN,China,MAC,"China, Macao SAR",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",10717,FALSE,253935,253935,TRUE,FALSE
+2024,2024,CHN,China,MYS,Malaysia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",446280,FALSE,12224031,12224031,TRUE,FALSE
+2024,2024,CHN,China,MLI,Mali,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6608418,FALSE,27864545,27864545,TRUE,FALSE
+2024,2024,CHN,China,MRT,Mauritania,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",15860445,FALSE,65953768,65953768,TRUE,FALSE
+2024,2024,CHN,China,MUS,Mauritius,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",7570,FALSE,81170,81170,TRUE,FALSE
+2024,2024,CHN,China,MEX,Mexico,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",47395,FALSE,479910,479910,TRUE,FALSE
+2024,2024,CHN,China,S19,"Other Asia, nes",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",694,FALSE,56449,56449,TRUE,FALSE
+2024,2024,CHN,China,MNG,Mongolia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",28484,FALSE,54696,54696,TRUE,FALSE
+2024,2024,CHN,China,MDA,Rep. of Moldova,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",20,FALSE,644,644,TRUE,FALSE
+2024,2024,CHN,China,MAR,Morocco,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",474520,FALSE,1822861,1822861,TRUE,FALSE
+2024,2024,CHN,China,OMN,Oman,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",30706,FALSE,72582,72582,TRUE,FALSE
+2024,2024,CHN,China,NPL,Nepal,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",4,FALSE,1260,1260,TRUE,FALSE
+2024,2024,CHN,China,NLD,Netherlands,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",700264,FALSE,4377003,4377003,TRUE,FALSE
+2024,2024,CHN,China,NZL,New Zealand,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",9691.177,TRUE,160618,160618,TRUE,FALSE
+2024,2024,CHN,China,NER,Niger,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",4230227,FALSE,16247372,16247372,TRUE,FALSE
+2024,2024,CHN,China,NGA,Nigeria,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",555392,FALSE,2046144,2046144,TRUE,FALSE
+2024,2024,CHN,China,NOR,Norway,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",23400,FALSE,151140,151140,TRUE,FALSE
+2024,2024,CHN,China,PAK,Pakistan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",242,FALSE,2689,2689,TRUE,FALSE
+2024,2024,CHN,China,PAN,Panama,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",12838,FALSE,218345,218345,TRUE,FALSE
+2024,2024,CHN,China,PER,Peru,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",30775,FALSE,343661,343661,TRUE,FALSE
+2024,2024,CHN,China,PHL,Philippines,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",29765,FALSE,254761,254761,TRUE,FALSE
+2024,2024,CHN,China,POL,Poland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",41573,FALSE,407417,407417,TRUE,FALSE
+2024,2024,CHN,China,PRT,Portugal,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",18170,FALSE,182811,182811,TRUE,FALSE
+2024,2024,CHN,China,GNB,Guinea-Bissau,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",69096,FALSE,293202,293202,TRUE,FALSE
+2024,2024,CHN,China,QAT,Qatar,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",15262,FALSE,112812,112812,TRUE,FALSE
+2024,2024,CHN,China,ROU,Romania,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1593,FALSE,9971,9971,TRUE,FALSE
+2024,2024,CHN,China,RUS,Russian Federation,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",143134,FALSE,1943806,1943806,TRUE,FALSE
+2024,2024,CHN,China,SAU,Saudi Arabia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",274920,FALSE,2070676,2070676,TRUE,FALSE
+2024,2024,CHN,China,SEN,Senegal,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",14190212,FALSE,57407647,57407647,TRUE,FALSE
+2024,2024,CHN,China,SRB,Serbia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",200,FALSE,2200,2200,TRUE,FALSE
+2024,2024,CHN,China,SLE,Sierra Leone,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",328100,FALSE,649445,649445,TRUE,FALSE
+2024,2024,CHN,China,IND,India,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2822,FALSE,91616,91616,TRUE,FALSE
+2024,2024,CHN,China,SGP,Singapore,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",101990,FALSE,1366744,1366744,TRUE,FALSE
+2024,2024,CHN,China,SVK,Slovakia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",373,FALSE,10342,10342,TRUE,FALSE
+2024,2024,CHN,China,VNM,Viet Nam,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",88910,FALSE,1165875,1165875,TRUE,FALSE
+2024,2024,CHN,China,ZAF,South Africa,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",33232,FALSE,246252,246252,TRUE,FALSE
+2024,2024,CHN,China,ESP,Spain,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",293875,FALSE,1652901,1652901,TRUE,FALSE
+2024,2024,CHN,China,SUR,Suriname,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6720,FALSE,86928,86928,TRUE,FALSE
+2024,2024,CHN,China,SWE,Sweden,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",296,FALSE,7992,7992,TRUE,FALSE
+2024,2024,CHN,China,CHE,Switzerland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",825.648,TRUE,39576,39576,TRUE,FALSE
+2024,2024,CHN,China,TJK,Tajikistan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",33700,FALSE,90362,90362,TRUE,FALSE
+2024,2024,CHN,China,THA,Thailand,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",40202.59,TRUE,413128,413128,TRUE,FALSE
+2024,2024,CHN,China,TGO,Togo,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3627917,FALSE,13252127,13252127,TRUE,FALSE
+2024,2024,CHN,China,ARE,United Arab Emirates,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",40957,FALSE,286895,286895,TRUE,FALSE
+2024,2024,CHN,China,TUN,Tunisia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",20005,FALSE,30055,30055,TRUE,FALSE
+2024,2024,CHN,China,TUR,Türkiye,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",800,FALSE,17723,17723,TRUE,FALSE
+2024,2024,CHN,China,TKM,Turkmenistan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",36700,FALSE,51535,51535,TRUE,FALSE
+2024,2024,CHN,China,UKR,Ukraine,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2479,FALSE,35229,35229,TRUE,FALSE
+2024,2024,CHN,China,EGY,Egypt,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",29962,FALSE,165991,165991,TRUE,FALSE
+2024,2024,CHN,China,GBR,United Kingdom,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",82026,FALSE,1749376,1749376,TRUE,FALSE
+2024,2024,CHN,China,USA,USA,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1595020,FALSE,18870516,18870516,TRUE,FALSE
+2024,2024,CHN,China,BFA,Burkina Faso,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",706780,FALSE,2447117,2447117,TRUE,FALSE
+2024,2024,CHN,China,UZB,Uzbekistan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",112766,FALSE,557417,557417,TRUE,FALSE
+2024,2024,CHN,China,_X ,"Areas, nes",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",215,FALSE,3943,3943,TRUE,FALSE
+2024,2024,JPN,Japan,W00,World,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3529574,FALSE,140565118.4,140565118.4,FALSE,TRUE
+2024,2024,JPN,Japan,ALB,Albania,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",10,FALSE,1902.669,1902.669,TRUE,FALSE
+2024,2024,JPN,Japan,ARG,Argentina,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",962,FALSE,26809.136,26809.136,TRUE,FALSE
+2024,2024,JPN,Japan,AUS,Australia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",127818,FALSE,3977159.832,3977159.832,TRUE,FALSE
+2024,2024,JPN,Japan,AUT,Austria,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2108,FALSE,127452.405,127452.405,TRUE,FALSE
+2024,2024,JPN,Japan,BHR,Bahrain,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1549,FALSE,89993.607,89993.607,TRUE,FALSE
+2024,2024,JPN,Japan,BEL,Belgium,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",4951,FALSE,312235.93,312235.93,TRUE,FALSE
+2024,2024,JPN,Japan,BMU,Bermuda,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",27,FALSE,2173.535,2173.535,TRUE,FALSE
+2024,2024,JPN,Japan,BIH,Bosnia Herzegovina,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",66,FALSE,1400.576,1400.576,TRUE,FALSE
+2024,2024,JPN,Japan,BRA,Brazil,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",9254,FALSE,221350.447,221350.447,TRUE,FALSE
+2024,2024,JPN,Japan,BRN,Brunei Darussalam,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2213,FALSE,84358.271,84358.271,TRUE,FALSE
+2024,2024,JPN,Japan,BGR,Bulgaria,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",55,FALSE,3217.361,3217.361,TRUE,FALSE
+2024,2024,JPN,Japan,MMR,Myanmar,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",349,FALSE,6751.833,6751.833,TRUE,FALSE
+2024,2024,JPN,Japan,KHM,Cambodia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",15877,FALSE,399408.566,399408.566,TRUE,FALSE
+2024,2024,JPN,Japan,CAN,Canada,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",210242,FALSE,7581376.697,7581376.697,TRUE,FALSE
+2024,2024,JPN,Japan,LKA,Sri Lanka,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3533,FALSE,142059.354,142059.354,TRUE,FALSE
+2024,2024,JPN,Japan,CHL,Chile,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",546,FALSE,35166.346,35166.346,TRUE,FALSE
+2024,2024,JPN,Japan,CHN,China,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3341,FALSE,211427.499,211427.499,TRUE,FALSE
+2024,2024,JPN,Japan,COL,Colombia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",219,FALSE,24503.471,24503.471,TRUE,FALSE
+2024,2024,JPN,Japan,COG,Congo,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",20,FALSE,5377.683,5377.683,TRUE,FALSE
+2024,2024,JPN,Japan,HRV,Croatia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",397,FALSE,12578.757,12578.757,TRUE,FALSE
+2024,2024,JPN,Japan,CYP,Cyprus,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",344,FALSE,29874.548,29874.548,TRUE,FALSE
+2024,2024,JPN,Japan,CZE,Czechia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",7133,FALSE,435182.709,435182.709,TRUE,FALSE
+2024,2024,JPN,Japan,DNK,Denmark,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",5441,FALSE,225512.536,225512.536,TRUE,FALSE
+2024,2024,JPN,Japan,ETH,Ethiopia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",16,FALSE,2576.531,2576.531,TRUE,FALSE
+2024,2024,JPN,Japan,EST,Estonia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",267,FALSE,27542.457,27542.457,TRUE,FALSE
+2024,2024,JPN,Japan,FIN,Finland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2067,FALSE,84741.447,84741.447,TRUE,FALSE
+2024,2024,JPN,Japan,FRA,France,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",97981,FALSE,5232247.589,5232247.589,TRUE,FALSE
+2024,2024,JPN,Japan,PYF,French Polynesia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",10,FALSE,1664.835,1664.835,TRUE,FALSE
+2024,2024,JPN,Japan,GEO,Georgia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",67,FALSE,6196.888,6196.888,TRUE,FALSE
+2024,2024,JPN,Japan,DEU,Germany,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",167795,FALSE,9455234.914,9455234.914,TRUE,FALSE
+2024,2024,JPN,Japan,GRC,Greece,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",561,FALSE,21887.301,21887.301,TRUE,FALSE
+2024,2024,JPN,Japan,GUM,Guam,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3062,FALSE,53466.324,53466.324,TRUE,FALSE
+2024,2024,JPN,Japan,GTM,Guatemala,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",20,FALSE,2384.943,2384.943,TRUE,FALSE
+2024,2024,JPN,Japan,HKG,"China, Hong Kong SAR",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",148396,FALSE,5031086.575,5031086.575,TRUE,FALSE
+2024,2024,JPN,Japan,HUN,Hungary,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3134,FALSE,301421.106,301421.106,TRUE,FALSE
+2024,2024,JPN,Japan,IDN,Indonesia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",68237,FALSE,913928.614,913928.614,TRUE,FALSE
+2024,2024,JPN,Japan,IRQ,Iraq,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",159,FALSE,12103.09,12103.09,TRUE,FALSE
+2024,2024,JPN,Japan,IRL,Ireland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1009,FALSE,68958.543,68958.543,TRUE,FALSE
+2024,2024,JPN,Japan,ISR,Israel,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6833,FALSE,286939.68,286939.68,TRUE,FALSE
+2024,2024,JPN,Japan,ITA,Italy,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6976,FALSE,245232.909,245232.909,TRUE,FALSE
+2024,2024,JPN,Japan,KAZ,Kazakhstan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1886,FALSE,129269.19,129269.19,TRUE,FALSE
+2024,2024,JPN,Japan,JOR,Jordan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",620,FALSE,37597.535,37597.535,TRUE,FALSE
+2024,2024,JPN,Japan,KOR,Rep. of Korea,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3468,FALSE,83836.358,83836.358,TRUE,FALSE
+2024,2024,JPN,Japan,KWT,Kuwait,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",15925,FALSE,1130727.189,1130727.189,TRUE,FALSE
+2024,2024,JPN,Japan,KGZ,Kyrgyzstan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",125,FALSE,9969.193,9969.193,TRUE,FALSE
+2024,2024,JPN,Japan,LAO,Lao People's Dem. Rep.,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",599,FALSE,17190.087,17190.087,TRUE,FALSE
+2024,2024,JPN,Japan,LBN,Lebanon,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",285,FALSE,23182.173,23182.173,TRUE,FALSE
+2024,2024,JPN,Japan,LVA,Latvia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",258,FALSE,9348.183,9348.183,TRUE,FALSE
+2024,2024,JPN,Japan,LTU,Lithuania,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",3716,FALSE,247188.43,247188.43,TRUE,FALSE
+2024,2024,JPN,Japan,LUX,Luxembourg,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",157,FALSE,15882.002,15882.002,TRUE,FALSE
+2024,2024,JPN,Japan,MAC,"China, Macao SAR",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8496,FALSE,493716.211,493716.211,TRUE,FALSE
+2024,2024,JPN,Japan,MYS,Malaysia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",325554,FALSE,6136200.403,6136200.403,TRUE,FALSE
+2024,2024,JPN,Japan,MDV,Maldives,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",50,FALSE,2332.091,2332.091,TRUE,FALSE
+2024,2024,JPN,Japan,MLT,Malta,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",34,FALSE,1598.771,1598.771,TRUE,FALSE
+2024,2024,JPN,Japan,MEX,Mexico,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",39332,FALSE,1232011.288,1232011.288,TRUE,FALSE
+2024,2024,JPN,Japan,S19,"Other Asia, nes",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",136834,FALSE,4630964.508,4630964.508,TRUE,FALSE
+2024,2024,JPN,Japan,MNG,Mongolia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",4817,FALSE,63739.416,63739.416,TRUE,FALSE
+2024,2024,JPN,Japan,MDA,Rep. of Moldova,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",166,FALSE,7273.745,7273.745,TRUE,FALSE
+2024,2024,JPN,Japan,OMN,Oman,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1261,FALSE,81160.73,81160.73,TRUE,FALSE
+2024,2024,JPN,Japan,NLD,Netherlands,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",37335,FALSE,1598235.454,1598235.454,TRUE,FALSE
+2024,2024,JPN,Japan,NZL,New Zealand,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8876,FALSE,271136.956,271136.956,TRUE,FALSE
+2024,2024,JPN,Japan,NOR,Norway,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1115,FALSE,99388.036,99388.036,TRUE,FALSE
+2024,2024,JPN,Japan,MNP,N. Mariana Isds,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",18,FALSE,1427.002,1427.002,TRUE,FALSE
+2024,2024,JPN,Japan,PER,Peru,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",554,FALSE,36632.987,36632.987,TRUE,FALSE
+2024,2024,JPN,Japan,PHL,Philippines,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",88211,FALSE,3332756.191,3332756.191,TRUE,FALSE
+2024,2024,JPN,Japan,POL,Poland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",76817,FALSE,3536619.259,3536619.259,TRUE,FALSE
+2024,2024,JPN,Japan,PRT,Portugal,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1525,FALSE,48709.651,48709.651,TRUE,FALSE
+2024,2024,JPN,Japan,QAT,Qatar,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",4874,FALSE,160088.466,160088.466,TRUE,FALSE
+2024,2024,JPN,Japan,ROU,Romania,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1140,FALSE,36329.089,36329.089,TRUE,FALSE
+2024,2024,JPN,Japan,RUS,Russian Federation,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1102,FALSE,42340.994,42340.994,TRUE,FALSE
+2024,2024,JPN,Japan,SAU,Saudi Arabia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",37549,FALSE,2003206.685,2003206.685,TRUE,FALSE
+2024,2024,JPN,Japan,SRB,Serbia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",60,FALSE,1770.539,1770.539,TRUE,FALSE
+2024,2024,JPN,Japan,IND,India,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",9432,FALSE,327417.644,327417.644,TRUE,FALSE
+2024,2024,JPN,Japan,SGP,Singapore,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",163561,FALSE,4610253.162,4610253.162,TRUE,FALSE
+2024,2024,JPN,Japan,SVK,Slovakia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",4049,FALSE,232634.332,232634.332,TRUE,FALSE
+2024,2024,JPN,Japan,VNM,Viet Nam,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",57324,FALSE,1700127.35,1700127.35,TRUE,FALSE
+2024,2024,JPN,Japan,SVN,Slovenia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",405,FALSE,9949.374,9949.374,TRUE,FALSE
+2024,2024,JPN,Japan,ZAF,South Africa,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",973,FALSE,44666.479,44666.479,TRUE,FALSE
+2024,2024,JPN,Japan,ESP,Spain,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",14368,FALSE,622932.549,622932.549,TRUE,FALSE
+2024,2024,JPN,Japan,SWE,Sweden,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",4086,FALSE,285136.108,285136.108,TRUE,FALSE
+2024,2024,JPN,Japan,CHE,Switzerland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",15536,FALSE,800693.375,800693.375,TRUE,FALSE
+2024,2024,JPN,Japan,THA,Thailand,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",121649,FALSE,3863607.482,3863607.482,TRUE,FALSE
+2024,2024,JPN,Japan,ARE,United Arab Emirates,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",43105,FALSE,2214812.56,2214812.56,TRUE,FALSE
+2024,2024,JPN,Japan,TUR,Türkiye,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",879,FALSE,82891.63,82891.63,TRUE,FALSE
+2024,2024,JPN,Japan,UGA,Uganda,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",66,FALSE,1565.738,1565.738,TRUE,FALSE
+2024,2024,JPN,Japan,UKR,Ukraine,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2759,FALSE,171220.401,171220.401,TRUE,FALSE
+2024,2024,JPN,Japan,EGY,Egypt,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",237,FALSE,21953.366,21953.366,TRUE,FALSE
+2024,2024,JPN,Japan,GBR,United Kingdom,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",100750,FALSE,4379547.925,4379547.925,TRUE,FALSE
+2024,2024,JPN,Japan,USA,USA,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1284591,FALSE,59968992.58,59968992.58,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,W00,World,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",81571.719,TRUE,1446201,1446201,FALSE,TRUE
+2024,2024,KOR,Rep. of Korea,ALB,Albania,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",4,FALSE,66,66,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,AUS,Australia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2731.205,FALSE,51230,51230,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,AUT,Austria,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1013,FALSE,11210,11210,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,BHR,Bahrain,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",34.5,FALSE,1964,1964,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,MMR,Myanmar,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",2700,FALSE,8661,8661,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,CAN,Canada,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",5293.51,FALSE,97977,97977,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,CHN,China,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",132.409,FALSE,6471,6471,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,CZE,Czechia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",33,FALSE,1863,1863,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,ECU,Ecuador,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",200,FALSE,1538,1538,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,FIN,Finland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",55.17,FALSE,2707,2707,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,FRA,France,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",132.75,FALSE,5523,5523,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,DEU,Germany,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",785.75,FALSE,40626,40626,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,GUM,Guam,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",618,FALSE,7338,7338,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,GTM,Guatemala,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",175.92,FALSE,2187,2187,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,HKG,"China, Hong Kong SAR",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",118.3,FALSE,3700,3700,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,HUN,Hungary,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",20,FALSE,869,869,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,IDN,Indonesia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",19058.1,FALSE,22917,22917,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,IRQ,Iraq,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1017.5,FALSE,688,688,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,ITA,Italy,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6.922,FALSE,2233,2233,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,JPN,Japan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",9.12,FALSE,891,891,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,KAZ,Kazakhstan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",81.4,FALSE,862,862,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,KWT,Kuwait,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",10,FALSE,569,569,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,KGZ,Kyrgyzstan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",58.18,FALSE,166,166,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,LAO,Lao People's Dem. Rep.,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",120.525,FALSE,2261,2261,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,LBY,Libya,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6.75,FALSE,532,532,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,MYS,Malaysia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1602.962,FALSE,54257,54257,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,MEX,Mexico,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",96,FALSE,723,723,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,S19,"Other Asia, nes",90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",17.47,FALSE,1711,1711,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,MNG,Mongolia,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1924.8,FALSE,81256,81256,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,MAR,Morocco,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",311.6,FALSE,7026,7026,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,OMN,Oman,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",35,FALSE,2380,2380,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,NLD,Netherlands,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",77.22,FALSE,4532,4532,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,NZL,New Zealand,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1.95,FALSE,1,1,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,PHL,Philippines,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1579.316,TRUE,30460,30460,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,PRT,Portugal,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",0.1,FALSE,14,14,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,QAT,Qatar,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",21.6,FALSE,713,713,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,RUS,Russian Federation,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",302.921,FALSE,7946,7946,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,IND,India,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",89.5,FALSE,1484,1484,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,SGP,Singapore,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",26649.81,FALSE,548278,548278,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,VNM,Viet Nam,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",1490.92,FALSE,21343,21343,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,SWE,Sweden,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",7,FALSE,2864,2864,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,CHE,Switzerland,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",37.9,FALSE,10724,10724,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,THA,Thailand,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",110,FALSE,2691,2691,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,ARE,United Arab Emirates,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",91.27,FALSE,4851,4851,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,UKR,Ukraine,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",847.038,FALSE,21411,21411,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,GBR,United Kingdom,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",6766.84,FALSE,21490,21490,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,USA,USA,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",5094.391,FALSE,344985,344985,TRUE,FALSE
+2024,2024,KOR,Rep. of Korea,UZB,Uzbekistan,90210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",0.1,FALSE,12,12,TRUE,FALSE

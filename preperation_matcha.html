@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 12px;
+      background: transparent;
+    }
+    .container {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 10px;
+      max-width: 1000px;
+      margin: 0 auto 0 0px;
+      justify-items: center;
+    }
+    .drink-card {
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .image-container {
+      width: 90px;
+      height: 90px;
+      margin: 0 auto 15px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .image-container img {
+      max-width: 100%;
+      max-height: 100%;
+      object-fit: contain;
+    }
+    .drink-title {
+      font-size: 16px;
+      font-weight: 700;
+      color: #1e293b;
+      margin-bottom: 4px;
+    }
+    .calories-subtitle {
+      font-size: 13px;
+      font-weight: 500;
+      color: #64748b;
+      margin-bottom: 14px;
+    }
+    .chart-section {
+      margin-bottom: 12px;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .chart-label {
+      font-size: 12px;
+      font-weight: 600;
+      color: #64748b;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-bottom: 8px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="container" id="container"></div>
+  
+  <script>
+    async function createCharts() {
+      // Spec for grams chart with FIXED SCALE
+      const gramsSpec = {
+        "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+        "data": {
+          "url": "preperation_matcha.csv"
+        },
+        "transform": [
+          {
+            "fold": [
+              "Fat (g)", 
+              "Carbohydrate (g)",
+              "Protein (g)"
+            ],
+            "as": ["Nutrient", "Value"]
+          },
+          {
+            "calculate": "replace(datum.Nutrient, / \\(.+\\)/, '')",
+            "as": "NutrientName"
+          },
+          {
+            "calculate": "datum.NutrientName == 'Fat' ? '#a67c52' : datum.NutrientName == 'Carbohydrate' ? '#6b8e23' : '#4a7c7e'",
+            "as": "Color"
+          }
+        ],
+        "mark": {
+          "type": "bar",
+          "cornerRadiusEnd": 4,
+          "height": {"band": 0.65}
+        },
+        "encoding": {
+          "y": {
+            "field": "NutrientName",
+            "type": "nominal",
+            "axis": {
+              "title": null,
+              "labelFontSize": 12,
+              "labelFontWeight": 500,
+              "labelColor": "#475569",
+              "labelPadding": 8,
+              "domain": false,
+              "ticks": false
+            },
+            "sort": ["Carbohydrate", "Fat", "Protein"]
+          },
+          "x": {
+            "field": "Value",
+            "type": "quantitative",
+            "scale": {
+              "domain": [0, 70]
+            },
+            "axis": {
+              "title": "grams",
+              "titleFontSize": 11,
+              "titleColor": "#94a3b8",
+              "titlePadding": 8,
+              "labelFontSize": 10,
+              "labelColor": "#94a3b8",
+              "grid": true,
+              "gridColor": "#ffffff",
+              "gridOpacity": 0.5,
+              "domain": false,
+              "ticks": false
+            }
+          },
+          "color": {
+            "field": "Color",
+            "type": "nominal",
+            "scale": null,
+            "legend": null
+          },
+          "tooltip": [
+            {"field": "NutrientName", "type": "nominal", "title": "Nutrient"},
+            {"field": "Value", "type": "quantitative", "title": "Value (g)", "format": ".1f"}
+          ]
+        },
+        "width": 280,
+        "height": 90,
+        "config": {
+          "view": {"stroke": null},
+          "background": null
+        }
+      };
+
+      // Spec for milligrams chart with FIXED SCALE
+      const milligramsSpec = {
+        "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+        "data": {
+          "url": "preperation_matcha.csv"
+        },
+        "transform": [
+          {
+            "fold": [
+              "Cholesterol (mg)",
+              "Sodium (mg)",
+              "Caffeine (mg)"
+            ],
+            "as": ["Nutrient", "Value"]
+          },
+          {
+            "calculate": "replace(datum.Nutrient, / \\(.+\\)/, '')",
+            "as": "NutrientName"
+          },
+          {
+            "calculate": "datum.NutrientName == 'Cholesterol' ? '#c9ada7' : datum.NutrientName == 'Sodium' ? '#d4a574' : '#7d6b7d'",
+            "as": "Color"
+          }
+        ],
+        "mark": {
+          "type": "bar",
+          "cornerRadiusEnd": 4,
+          "height": {"band": 0.65}
+        },
+        "encoding": {
+          "y": {
+            "field": "NutrientName",
+            "type": "nominal",
+            "axis": {
+              "title": null,
+              "labelFontSize": 12,
+              "labelFontWeight": 500,
+              "labelColor": "#475569",
+              "labelPadding": 8,
+              "domain": false,
+              "ticks": false
+            },
+            "sort": ["Cholesterol", "Sodium", "Caffeine"]
+          },
+          "x": {
+            "field": "Value",
+            "type": "quantitative",
+            "scale": {
+              "domain": [0, 350]
+            },
+            "axis": {
+              "title": "milligrams",
+              "titleFontSize": 11,
+              "titleColor": "#94a3b8",
+              "titlePadding": 8,
+              "labelFontSize": 10,
+              "labelColor": "#94a3b8",
+              "grid": true,
+              "gridColor": "#ffffff",
+              "gridOpacity": 0.5,
+              "domain": false,
+              "ticks": false
+            }
+          },
+          "color": {
+            "field": "Color",
+            "type": "nominal",
+            "scale": null,
+            "legend": null
+          },
+          "tooltip": [
+            {"field": "NutrientName", "type": "nominal", "title": "Nutrient"},
+            {"field": "Value", "type": "quantitative", "title": "Value (mg)", "format": ".0f"}
+          ]
+        },
+        "width": 280,
+        "height": 90,
+        "config": {
+          "view": {"stroke": null},
+          "background": null
+        }
+      };
+
+      // Fetch the CSV to get drink data
+      const response = await fetch('preperation_matcha.csv');
+      const csvText = await response.text();
+      const lines = csvText.trim().split('\n');
+      
+      // Parse CSV headers
+      const headers = lines[0].split(',').map(h => h.trim());
+      const caloriesIndex = headers.findIndex(h => h.includes('Calories'));
+      
+      // Parse all drinks and create lookup
+      const allDrinksData = {};
+      lines.slice(1).forEach(line => {
+        const match = line.match(/^([^,]+)/);
+        const drinkName = match ? match[1].trim() : '';
+        const values = line.split(',');
+        const calories = values[caloriesIndex] ? values[caloriesIndex].trim() : '0';
+        allDrinksData[drinkName] = calories;
+      });
+      
+      // Debug: log all drink names from CSV
+      console.log('Drinks found in CSV:', Object.keys(allDrinksData));
+
+      // Define drink order and image mapping
+      const drinksData = [
+        { name: 'Matcha + Water', calories: allDrinksData['Matcha + Water'] || '0', image: 'matcha_water.png' },
+        { name: 'Matcha Latte', calories: allDrinksData['Matcha Latte'] || '0', image: 'matcha_latte.png' },
+        { name: 'Protein Matcha', calories: allDrinksData['Protein Matcha'] || '0', image: 'protein_matcha.png' },
+        { name: 'Matcha Creme Frappuccino', calories: allDrinksData['Matcha Creme Frappuccino'] || '0', image: 'matcha_frappucino.png' },
+        { name: 'Strawberry Matcha Frappuccino', calories: allDrinksData['Strawberry Matcha Frappuccino'] || '0', image: 'strawberry_matcha.png' },
+        { name: 'Banana Cream Protein Matcha', calories: allDrinksData['Banana Cream Protein Matcha'] || '0', image: 'banana_matcha.png' }
+      ];
+
+      // Create a card for each drink
+      const container = document.getElementById('container');
+      
+      for (let drinkData of drinksData) {
+        const drink = drinkData.name;
+        const calories = drinkData.calories;
+        const imageSrc = drinkData.image;
+        
+        const card = document.createElement('div');
+        card.className = 'drink-card';
+        
+        // Image container
+        const imageContainer = document.createElement('div');
+        imageContainer.className = 'image-container';
+        
+        const img = document.createElement('img');
+        img.src = imageSrc;
+        img.alt = drink;
+        
+        imageContainer.appendChild(img);
+        
+        const title = document.createElement('div');
+        title.className = 'drink-title';
+        title.textContent = drink;
+        
+        const caloriesSubtitle = document.createElement('div');
+        caloriesSubtitle.className = 'calories-subtitle';
+        caloriesSubtitle.textContent = `${calories}g calories`;
+        
+        // Grams chart section
+        const gramsSection = document.createElement('div');
+        gramsSection.className = 'chart-section';
+        
+        const gramsLabel = document.createElement('div');
+        gramsLabel.className = 'chart-label';
+        gramsLabel.textContent = 'Macronutrients (g)';
+        
+        const gramsChart = document.createElement('div');
+        
+        gramsSection.appendChild(gramsLabel);
+        gramsSection.appendChild(gramsChart);
+        
+        // Milligrams chart section
+        const mgSection = document.createElement('div');
+        mgSection.className = 'chart-section';
+        
+        const mgLabel = document.createElement('div');
+        mgLabel.className = 'chart-label';
+        mgLabel.textContent = 'Micronutrients (mg)';
+        
+        const mgChart = document.createElement('div');
+        
+        mgSection.appendChild(mgLabel);
+        mgSection.appendChild(mgChart);
+        
+        card.appendChild(imageContainer);
+        card.appendChild(title);
+        card.appendChild(caloriesSubtitle);
+        card.appendChild(gramsSection);
+        card.appendChild(mgSection);
+        container.appendChild(card);
+        
+        // Create specs for this specific drink
+        const drinkGramsSpec = {
+          ...gramsSpec,
+          transform: [
+            {"filter": `datum.Drink == '${drink}'`},
+            ...gramsSpec.transform
+          ]
+        };
+        
+        const drinkMgSpec = {
+          ...milligramsSpec,
+          transform: [
+            {"filter": `datum.Drink == '${drink}'`},
+            ...milligramsSpec.transform
+          ]
+        };
+        
+        await vegaEmbed(gramsChart, drinkGramsSpec, { actions: false });
+        await vegaEmbed(mgChart, drinkMgSpec, { actions: false });
+      }
+    }
+
+    createCharts();
+  </script>
+  <script>
+    // Post the document height to the parent so the iframe can be resized to fit
+    function sendHeight() {
+      const h = document.documentElement.scrollHeight;
+      if (window.parent && window.parent !== window) {
+        window.parent.postMessage({type: 'embed-height', id: 'preperation_matcha', height: h}, '*');
+      }
+    }
+
+    // Send height on load
+    window.addEventListener('load', sendHeight);
+
+    // Observe body size changes
+    const ro = new ResizeObserver(sendHeight);
+    ro.observe(document.documentElement);
+  </script>
+</body>
+</html>

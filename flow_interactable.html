@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 20px;
+      background: transparent;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+    }
+    #vis {
+      width: 100%;
+      max-width: 1000px;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <div id="vis"></div>
+  
+  <script>
+    const spec = {
+      "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+      "height": 600,
+      "params": [
+        {
+          "name": "yearSelect",
+          "value": 2024,
+          "bind": {
+            "input": "range",
+            "min": 2020,
+            "max": 2024,
+            "step": 1,
+            "name": "Year: "
+          }
+        },
+        {
+          "name": "producerSelect",
+          "value": "All",
+          "bind": {
+            "input": "select",
+            "options": ["All", "JPN", "CHN", "KOR"],
+            "labels": ["All Countries", "Japan", "China", "South Korea"],
+            "name": "Producer Country: "
+          }
+        },
+        {
+          "name": "flowMetric",
+          "value": "primaryValue",
+          "bind": {
+            "input": "select",
+            "options": ["primaryValue", "netWgt"],
+            "labels": ["Primary Value (USD)", "Net Weight (kg)"],
+            "name": "Flow Width Based On: "
+          }
+        },
+        {
+          "name": "perCapita",
+          "value": true,
+          "bind": {
+            "input": "checkbox",
+            "name": "Show Per Capita Values"
+          }
+        }
+      ],
+      "projection": {
+        "type": "naturalEarth1",
+        "center": [0, 10],
+        "scale": 180
+      },
+      "layer": [
+        {
+          "data": {
+            "sphere": true
+          },
+          "mark": {
+            "type": "geoshape",
+            "fill": "#dbeefb",
+            "fillOpacity": 0.95
+          }
+        },
+        {
+          "data": {
+            "graticule": {
+              "step": [20, 20]
+            }
+          },
+          "mark": {
+            "type": "geoshape",
+            "stroke": "#9bbfdc",
+            "strokeWidth": 0.8,
+            "fill": null,
+            "strokeOpacity": 0.5
+          }
+        },
+        {
+          "data": {
+            "url": "custom.geo.json",
+            "format": {
+              "type": "json",
+              "property": "features"
+            }
+          },
+          "mark": {
+            "type": "geoshape",
+            "fill": "#bfe0bf",
+            "stroke": "#e6f3e6",
+            "strokeWidth": 0.8
+          }
+        },
+        {
+          "data": {
+            "url": "JPN_CHN_KOR_MatchaTrade.csv"
+          },
+          "transform": [
+            {
+              "filter": "datum.refYear == yearSelect"
+            },
+            {
+              "filter": "producerSelect == 'All' || datum.reporterISO == producerSelect"
+            },
+            {
+              "filter": "datum.primaryValue != null && datum.primaryValue > 0"
+            },
+            {
+              "lookup": "partnerISO",
+              "from": {
+                "data": {
+                  "url": "country_population.csv"
+                },
+                "key": "countryISO",
+                "fields": ["pop2020", "pop2021", "pop2022", "pop2023", "pop2024"]
+              }
+            },
+            {
+              "calculate": "yearSelect == 2020 ? datum.pop2020 : yearSelect == 2021 ? datum.pop2021 : yearSelect == 2022 ? datum.pop2022 : yearSelect == 2023 ? datum.pop2023 : datum.pop2024",
+              "as": "population"
+            },
+            {
+              "calculate": "datum.population > 0 ? datum.primaryValue / datum.population : 0",
+              "as": "perCapitaValue"
+            },
+            {
+              "calculate": "datum.population > 0 ? datum.netWgt / datum.population : 0",
+              "as": "perCapitaWeight"
+            },
+            {
+              "calculate": "perCapita ? (flowMetric == 'primaryValue' ? datum.perCapitaValue : datum.perCapitaWeight) : (flowMetric == 'primaryValue' ? datum.primaryValue : datum.netWgt)",
+              "as": "flowValue"
+            },
+            {
+              "calculate": "datum.reporterISO == 'JPN' ? 139.6917 : datum.reporterISO == 'CHN' ? 116.4074 : 126.9780",
+              "as": "originLon"
+            },
+            {
+              "calculate": "datum.reporterISO == 'JPN' ? 35.6895 : datum.reporterISO == 'CHN' ? 39.9042 : 37.5665",
+              "as": "originLat"
+            },
+            {
+              "calculate": "datum.partnerISO == 'USA' ? -95.7129 : datum.partnerISO == 'CAN' ? -106.3468 : datum.partnerISO == 'AUS' ? 133.7751 : datum.partnerISO == 'GBR' ? -3.4360 : datum.partnerISO == 'DEU' ? 10.4515 : datum.partnerISO == 'FRA' ? 2.2137 : datum.partnerISO == 'ITA' ? 12.5674 : datum.partnerISO == 'ESP' ? -3.7492 : datum.partnerISO == 'NLD' ? 5.2913 : datum.partnerISO == 'BEL' ? 4.4699 : datum.partnerISO == 'SGP' ? 103.8198 : datum.partnerISO == 'HKG' ? 114.1095 : datum.partnerISO == 'TWN' ? 120.9605 : datum.partnerISO == 'THA' ? 100.9925 : datum.partnerISO == 'MYS' ? 101.9758 : datum.partnerISO == 'IDN' ? 113.9213 : datum.partnerISO == 'PHL' ? 121.7740 : datum.partnerISO == 'VNM' ? 108.2772 : datum.partnerISO == 'IND' ? 20.5937 : datum.partnerISO == 'RUS' ? 105.3188 : datum.partnerISO == 'BRA' ? -47.8825 : datum.partnerISO == 'MEX' ? -102.5528 : datum.partnerISO == 'ARG' ? -63.6167 : datum.partnerISO == 'CHL' ? -71.5430 : datum.partnerISO == 'NZL' ? 174.8860 : datum.partnerISO == 'ZAF' ? 22.9375 : datum.partnerISO == 'SAU' ? 45.0792 : datum.partnerISO == 'ARE' ? 53.8478 : datum.partnerISO == 'TUR' ? 35.2433 : datum.partnerISO == 'POL' ? 19.1451 : datum.partnerISO == 'SWE' ? 18.6435 : datum.partnerISO == 'NOR' ? 8.4689 : datum.partnerISO == 'DNK' ? 9.5018 : datum.partnerISO == 'FIN' ? 25.7482 : datum.partnerISO == 'AUT' ? 14.5501 : datum.partnerISO == 'CHE' ? 8.2275 : datum.partnerISO == 'IRL' ? -8.2439 : datum.partnerISO == 'PRT' ? -8.2245 : datum.partnerISO == 'GRC' ? 21.8243 : datum.partnerISO == 'CZE' ? 15.4730 : datum.partnerISO == 'HUN' ? 19.5033 : datum.partnerISO == 'ROU' ? 24.9668 : 0",
+              "as": "destLon"
+            },
+            {
+              "calculate": "datum.partnerISO == 'USA' ? 37.0902 : datum.partnerISO == 'CAN' ? 56.1304 : datum.partnerISO == 'AUS' ? -25.2744 : datum.partnerISO == 'GBR' ? 55.3781 : datum.partnerISO == 'DEU' ? 51.1657 : datum.partnerISO == 'FRA' ? 46.2276 : datum.partnerISO == 'ITA' ? 41.8719 : datum.partnerISO == 'ESP' ? 40.4637 : datum.partnerISO == 'NLD' ? 52.1326 : datum.partnerISO == 'BEL' ? 50.5039 : datum.partnerISO == 'SGP' ? 1.3521 : datum.partnerISO == 'HKG' ? 22.3193 : datum.partnerISO == 'TWN' ? 23.6978 : datum.partnerISO == 'THA' ? 15.8700 : datum.partnerISO == 'MYS' ? 4.2105 : datum.partnerISO == 'IDN' ? -0.7893 : datum.partnerISO == 'PHL' ? 12.8797 : datum.partnerISO == 'VNM' ? 14.0583 : datum.partnerISO == 'IND' ? 20.5937 : datum.partnerISO == 'RUS' ? 61.5240 : datum.partnerISO == 'BRA' ? -14.2350 : datum.partnerISO == 'MEX' ? 23.6345 : datum.partnerISO == 'ARG' ? -38.4161 : datum.partnerISO == 'CHL' ? -35.6751 : datum.partnerISO == 'NZL' ? -40.9006 : datum.partnerISO == 'ZAF' ? -30.5595 : datum.partnerISO == 'SAU' ? 23.8859 : datum.partnerISO == 'ARE' ? 23.4241 : datum.partnerISO == 'TUR' ? 38.9637 : datum.partnerISO == 'POL' ? 51.9194 : datum.partnerISO == 'SWE' ? 60.1282 : datum.partnerISO == 'NOR' ? 60.4720 : datum.partnerISO == 'DNK' ? 56.2639 : datum.partnerISO == 'FIN' ? 61.9241 : datum.partnerISO == 'AUT' ? 47.5162 : datum.partnerISO == 'CHE' ? 46.8182 : datum.partnerISO == 'IRL' ? 53.4129 : datum.partnerISO == 'PRT' ? 39.3999 : datum.partnerISO == 'GRC' ? 39.0742 : datum.partnerISO == 'CZE' ? 49.8175 : datum.partnerISO == 'HUN' ? 47.1625 : datum.partnerISO == 'ROU' ? 45.9432 : 0",
+              "as": "destLat"
+            },
+            {
+              "filter": "datum.destLon != 0 && datum.destLat != 0"
+            },
+            {
+              "calculate": "perCapita && flowMetric == 'primaryValue' ? datum.flowValue * 50000 : perCapita && flowMetric == 'netWgt' ? datum.flowValue * 1000000 : datum.flowValue",
+              "as": "scaledFlowValue"
+            },
+          ],
+          "mark": {
+            "type": "rule",
+            "opacity": 0.75,
+            "strokeCap": "round"
+          },
+          "encoding": {
+            "longitude": {
+              "field": "originLon",
+              "type": "quantitative"
+            },
+            "latitude": {
+              "field": "originLat",
+              "type": "quantitative"
+            },
+            "longitude2": {
+              "field": "destLon"
+            },
+            "latitude2": {
+              "field": "destLat"
+            },
+            "strokeWidth": {
+              "field": "flowValue",
+              "type": "quantitative",
+              "scale": {
+                "type": "sqrt",
+                "domain": {"expr": "perCapita ? (flowMetric == 'primaryValue' ? [0, 3] : [0, 0.008]) : (flowMetric == 'primaryValue' ? [0, 110000000] : [0, 40000000])"},
+                "range": [2, 20]
+              },
+              "legend": {
+                "title": "Trade Flow Volume",
+                "orient": "none",
+                "legendX": 20,
+                "legendY": 120,
+                "gradientLength": 200
+              }
+            },
+            "color": {
+              "field": "reporterISO",
+              "type": "nominal",
+              "scale": {
+                "domain": ["JPN", "CHN", "KOR"],
+                "range": ["#2d7a3e", "#d97638", "#3a7ca5"]
+              },
+              "legend": {
+                "title": "Exporter Country",
+                "orient": "top-left",
+                "titleFontSize": 16,
+                "titleFontWeight": "bold",
+                "labelFontSize": 14,
+                "symbolSize": 300,
+                "symbolStrokeWidth": 2,
+                "padding": 10,
+                "offset": 10
+              }
+            },
+            "tooltip": [
+              {"field": "reporterDesc", "type": "nominal", "title": "Exporter"},
+              {"field": "partnerDesc", "type": "nominal", "title": "Importer"},
+              {"field": "primaryValue", "type": "quantitative", "title": "Total Value (USD)", "format": ",.0f"},
+              {"field": "netWgt", "type": "quantitative", "title": "Total Weight (kg)", "format": ",.0f"},
+              {"field": "perCapitaValue", "type": "quantitative", "title": "Per Capita Value (USD)", "format": ".4f"},
+              {"field": "perCapitaWeight", "type": "quantitative", "title": "Per Capita Weight (kg)", "format": ".6f"},
+              {"field": "population", "type": "quantitative", "title": "Population", "format": ",.0f"},
+              {"field": "refYear", "type": "quantitative", "title": "Year"}
+            ]
+          }
+        }
+      ],
+      "config": {
+        "view": {
+          "stroke": null
+        },
+        "background": null
+      }
+    };
+
+    vegaEmbed('#vis', spec, {
+      actions: {
+        export: true,
+        source: false,
+        editor: false
+      }
+    });
+  </script>
+</body>
+</html>
